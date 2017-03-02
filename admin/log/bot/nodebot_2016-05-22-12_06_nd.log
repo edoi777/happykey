@@ -1,0 +1,14 @@
+events.js:85
+      throw er; // Unhandled 'error' event
+            ^
+Error: Ready check failed: NOAUTH Authentication required.
+    at JavascriptReplyParser.parseResult (/var/www/newbot/node_modules/redis/node_modules/redis-parser/lib/javascript.js:90:16)
+    at JavascriptReplyParser.tryParsing (/var/www/newbot/node_modules/redis/node_modules/redis-parser/lib/javascript.js:117:21)
+    at JavascriptReplyParser.run (/var/www/newbot/node_modules/redis/node_modules/redis-parser/lib/javascript.js:131:22)
+    at JavascriptReplyParser.execute (/var/www/newbot/node_modules/redis/node_modules/redis-parser/lib/javascript.js:112:10)
+    at Socket.<anonymous> (/var/www/newbot/node_modules/redis/index.js:223:27)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:540:20)
+error: Forever detected script exited with code: 1

@@ -1,0 +1,596 @@
+﻿<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="viewport" content="height=divice-height">
+
+<title>BombKeys - Сервис развлечений для геймера</title>
+<meta name="description" content="Получайте дорогие игры всего за 69 руб. Мгновенная доставка!"> 
+<meta name="keywords" content="ключи стим, купить steam ключи, ключи для стим, рандом ключи стим, рандомные ключи стим,"> 
+<link rel="stylesheet" href="css\styles.css">
+<link rel="icon" type="image/x-icon" href="favicon.png">
+ 
+<link rel="stylesheet" href="css\animate.min.css">
+ 
+<script src="js\jquery.min.js"></script>
+<script src="js\jquery.smoothscroll.js"></script>
+<script src="js\script.js"></script>
+<script src="js\modals.js"></script>
+<script src="js\socket.io.js"></script>
+
+<script src="js\sweetalert2.min.js"></script>
+<link rel="stylesheet" href="js\sweetalert2.min.css">
+<!-- http://limonte.github.io/sweetalert2/ -->
+
+<link rel="stylesheet" href="css\owl.carousel.css">
+<link rel="stylesheet" href="css\owl.theme.css">
+<link rel="stylesheet" href="css\owl.transitions.css">
+<script src="js\owl.carousel.js"></script>
+<!-- http://www.owlgraphic.com/owlcarousel/ -->
+
+<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js" charset="utf-8"></script>
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter37632505 = new Ya.Metrika({
+                    id:37632505,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/37632505" style="position:absolute; left:-9999px;" alt=""></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</head><!DOCTYPE html>
+
+<html lang="ru">
+<body>
+
+
+	<header class="main-header">
+		<div class="wrapper header-top">
+		
+			<figure class="main-logo">
+				<a href="index.htm">
+				<img src="img\logo.png" alt="Logo">
+				<figcaption>
+					<span>bombkeys</span>
+					<span>бомбезные рандом ключи</span>
+				</figcaption>
+				</a>
+			</figure>
+			
+			<nav class="nav">
+				<a href="reviews.htm">отзывы</a>
+				<a href="guarantees.htm">гарантии</a>
+				<a href="faq.htm">faq</a>
+				
+				<a href="top.htm">топ игроков</a>
+				
+				<!--<span href="#">еще
+				<div class="submenu">
+				<ul>
+					<li><a href="#">поддержка</a></li>
+					<li><a href="#">автор</a></li>
+				</ul></div>
+				</span>-->
+				
+			</nav>
+
+<div class="log-in">
+				<form action="/?login" method="post">
+		            <input class="login" type="image" alt="Login" src="img\login.png">
+	            </form>
+			</div>			
+			
+			
+		</div>
+		<div id="last_winners" class="last_winners">
+		
+			<!--<div class="win">
+			    <img class="win_image" src="img/last/149.jpg">
+			    <a style="text-decoration: none;" href="http://steamcommunity.com/profiles/76561198287081421" target="_blank" class="nick">LEGO Pirate</a>
+			    <div class="ago">43 с. назад</div>
+		    </div>
+			<div class="win">
+			    <img class="win_image" src="img/last/149.jpg">
+			    <a style="text-decoration: none;" href="http://steamcommunity.com/profiles/76561198287081421" target="_blank" class="nick">LEGO Pirate</a>
+			    <div class="ago">43 с. назад</div>
+		    </div>
+			<div class="win">
+			    <img class="win_image" src="img/last/149.jpg">
+			    <a style="text-decoration: none;" href="http://steamcommunity.com/profiles/76561198287081421" target="_blank" class="nick">LEGO Pirate</a>
+			    <div class="ago">43 с. назад</div>
+		    </div>
+			<div class="win">
+			    <img class="win_image" src="img/last/149.jpg">
+			    <a style="text-decoration: none;" href="http://steamcommunity.com/profiles/76561198287081421" target="_blank" class="nick">LEGO Pirate</a>
+			    <div class="ago">43 с. назад</div>
+		    </div>
+			<div class="win">
+			    <img class="win_image" src="img/last/149.jpg">
+			    <a style="text-decoration: none;" href="http://steamcommunity.com/profiles/76561198287081421" target="_blank" class="nick">LEGO Pirate</a>
+			    <div class="ago">43 с. назад</div>
+		    </div>
+			<div class="win">
+			    <img class="win_image" src="img/last/149.jpg">
+			    <a style="text-decoration: none;" href="http://steamcommunity.com/profiles/76561198287081421" target="_blank" class="nick">LEGO Pirate</a>
+			    <div class="ago">43 с. назад</div>
+		    </div>
+			<div class="win">
+			    <img class="win_image" src="img/last/149.jpg">
+			    <a style="text-decoration: none;" href="http://steamcommunity.com/profiles/76561198287081421" target="_blank" class="nick">LEGO Pirate</a>
+			    <div class="ago">43 с. назад</div>
+		    </div>
+			<div class="win">
+			    <img class="win_image" src="img/last/left_dead_2.jpg">
+			    <a href="http://steamcommunity.com/profiles/76561198287081421" target="_blank" class="nick">Valera2000</a>
+			    <div class="ago">43 с. назад</div>
+		    </div>
+			<div class="win">
+			    <img class="win_image" src="img/last/left_dead_2.jpg">
+			    <a href="http://steamcommunity.com/profiles/76561198287081421" target="_blank" class="nick">Valera2000</a>
+			    <div class="ago">43 с. назад</div>
+		    </div>
+			<div class="win">
+			    <img class="win_image" src="img/last/left_dead_2.jpg">
+			    <a href="http://steamcommunity.com/profiles/76561198287081421" target="_blank" class="nick">Valera2000</a>
+			    <div class="ago">43 с. назад</div>
+		    </div>
+			<div class="win">
+			    <img class="win_image" src="img/last/149.jpg">
+			    <a style="text-decoration: none;" href="http://steamcommunity.com/profiles/76561198287081421" target="_blank" class="nick">Superjora</a>
+			    <div class="ago">43 с. назад</div>
+		    </div>
+			<div class="win">
+			    <img class="win_image" src="img/last/left_dead_2.jpg">
+			    <a href="http://steamcommunity.com/profiles/76561198287081421" target="_blank" class="nick">Valera2000</a>
+			    <div class="ago">43 с. назад</div>
+		    </div>-->
+			
+		</div>	  
+	</header>
+	
+<div id="addmoney" class="popup-ovelay">
+	<div class="popup animated zoomIn">
+	<div class="close-popup bg"></div>
+	<div id="close_pay" class="close-popup x">X</div>
+		<div class="page-title">ПОПОЛНИТЬ СЧЕТ</div>
+		<div class="popup_content">
+			<div class="popup_descr">Оплаченные средства поступают на счет <span class="red">автоматически!</span>
+			</div>
+			<div class="popup_descr">Процесс занимает <span class="red">не более 3-5 минут.</span>
+			</div>
+			
+			<div class="popup_body">
+			
+			<div class="pay_head">Мы принимаем:</div>
+			
+			<div class="popup-close"></div>
+			
+				<a href="" class="addmoney_item wm">
+					<div class="addmoney_item--title">
+						WebMoney
+					</div>
+					5% комиссии
+				</a>
+				
+				<a href="#" class="addmoney_item visa">
+					<div class="addmoney_item--title">
+						VISA / MasterCard
+					</div>
+					5% комиссии
+				</a>
+				
+				<a href="#" class="addmoney_item vtb" data-curr="BNK">
+					<div class="addmoney_item--title">
+						ВТБ24
+					</div>
+					5% комиссии
+				</a>
+				
+				<a href="#" class="addmoney_item megaf" data-curr="MGF">
+					<div class="addmoney_item--title">
+						Мегафон
+					</div>
+					5% комиссии
+				</a>
+				
+				<a href="#" class="addmoney_item yad" data-curr="PCR">
+					<div class="addmoney_item--title">
+						Яндекс.Деньги
+					</div>
+					5% комиссии
+				</a>
+				
+				<a href="#" class="addmoney_item sber" data-curr="BNK">
+					<div class="addmoney_item--title">
+						Сбербанк Онлайн
+					</div>
+					5% комиссии
+				</a>
+				
+				<a href="#" class="addmoney_item alpha" data-curr="BNK">
+					<div class="addmoney_item--title">
+						Альфа-Клик
+					</div>
+					5% комиссии
+				</a>
+				
+				<a href="" class="addmoney_item mts " data-curr="MTS">
+					<div class="addmoney_item--title">
+						МТС
+					</div>
+					5% комиссии
+				</a>
+				
+				<a href="" class="addmoney_item qiwi">
+					<div class="addmoney_item--title">
+						Qiwi
+					</div>
+					5% комиссии
+				</a>
+				
+				<a href="" class="addmoney_item kor">
+					<div class="addmoney_item--title">
+						Коршунов банк 
+					</div>
+					5% комиссии
+				</a>
+				
+				<a href="" class="addmoney_item sok">
+					<div class="addmoney_item--title">
+						Соколов банк
+					</div>
+					5% комиссии
+				</a>
+				
+				<a href="#" class="addmoney_item bee" data-curr="BLN">
+					<div class="addmoney_item--title">
+						Билайн
+					</div>
+					5% комиссии
+				</a>
+			</div> 
+			
+			<form action="#" method="POST" class="pay-form">
+				<input type="hidden" name="account" value="">
+				<input type="hidden" name="type_curr" id="curr" value="WMR">
+				<span class="sum_label">СУММА:</span>
+				<div class="pay-form_rublabel"><input type="text" name="sum" value="69" required=""><span class="red rub">&#8381;</span></div>
+				<input style="cursor: pointer;" class="btn" type="submit" value="Пополнить счет">
+				<span class="pay-form_note">Минимальная сумма пополнения 69 рублей</span>
+			</form>
+			
+			
+<a class="btn" id="kupon" style="margin-left: 300px;margin-bottom: 20px;">Активировать промокод</a>			
+			
+			
+		</div>
+	</div>
+</div>
+
+<div id="game-end" class="popup-ovelay">
+   <div id="winning" class="modal animated zoomIn" style="margin-top: -374px;">
+			<a id="end_close" href="#" class="close"></a>
+			<span class="heading">Поздравляем! Ваш выигрыш:</span>
+			<div id="winning_image">
+			<div class="winning_image"></div>
+			</div>
+			<span class="title keys"></span>
+			<span id="game_name" class="title ss">game_name</span>
+			<div class="keys" id="key">key</div>
+			<span class="add_info keys">Все выигрыши хранятся в личном кабинете</span>
+           
+		    <div style="display: block;" class="add_review" style="    max-height: 252px;">
+			<span>Оставьте отзыв о нашем сайте</span>
+            <script type="text/javascript" src="//vk.com/js/api/openapi.js?121"></script>
+			<script type="text/javascript">
+                 VK.init({apiId: 5484207, onlyWidgets: true});
+            </script>
+	        <script type="text/javascript">
+				VK.Widgets.Comments("new_review", {limit: 2, mini:1,norealtime:1, autoPublish:0, width: "315",height:"40", attach: "false", pageUrl: "http://bombkeys.ru/reviews"});
+			</script>						
+				<div id="new_review"></div>
+			</div>
+		
+
+    </div>
+</div>
+
+<div id="low_money" class="popup-ovelay">
+   <div id="warning" class="modal animated zoomIn" style="margin-left: -212px; margin-top: -84px; display: block;">
+		<a id="close_warning" href="#" class="close"></a>
+	    <div class="text">Ваш баланс менее 69 рублей,<br>пополните его</div>
+	    <a class="btn pay open_modal" id="pay_button_warrning">Пополнить баланс</a>			
+    </div>
+</div>
+
+
+
+<div class="content">
+<div class="wrapper page">
+<div class="page_shadow">
+<div id="listing" class="white_bg">
+<h1 class="page-title">Что я могу выйграть</h1>
+<div class="items_container" style="max-height: 5510px;">
+<div class="list_item" style="background: url(img/ghosts.jpg) no-repeat center center;background-size:cover">
+     <div class="price">2599</div> 
+     </div><div class="list_item" style="background: url(img/cod_adwanced.jpg) no-repeat center center;background-size:cover">
+     <div class="price">2599</div> 
+     </div><div class="list_item" style="background: url(img/gtav.jpg) no-repeat center center;background-size:cover">
+     <div class="price">2000</div> 
+     </div><div class="list_item" style="background: url(img/Division.jpg) no-repeat center center;background-size:cover">
+     <div class="price">1999</div> 
+     </div><div class="list_item" style="background: url(img/fallout4.jpg) no-repeat center center;background-size:cover">
+     <div class="price">1999</div> 
+     </div><div class="list_item" style="background: url(img/doom.jpg) no-repeat center center;background-size:cover">
+     <div class="price">1999</div> 
+     </div><div class="list_item" style="background: url(img/mirrorsedge_catasit.jpg) no-repeat center center;background-size:cover">
+     <div class="price">1999</div> 
+     </div><div class="list_item" style="background: url(img/black_ops.jpg) no-repeat center center;background-size:cover">
+     <div class="price">1799</div> 
+     </div><div class="list_item" style="background: url(img/xcom.jpg) no-repeat center center;background-size:cover">
+     <div class="price">1699</div> 
+     </div><div class="list_item" style="background: url(img/the-crew.jpg) no-repeat center center;background-size:cover">
+     <div class="price">1499</div> 
+     </div><div class="list_item" style="background: url(img/dayz_standalone.jpg) no-repeat center center;background-size:cover">
+     <div class="price">1399</div> 
+     </div><div class="list_item" style="background: url(img/deadpool.jpg) no-repeat center center;background-size:cover">
+     <div class="price">1299</div> 
+     </div><div class="list_item" style="background: url(img/prototupe_2.jpg) no-repeat center center;background-size:cover">
+     <div class="price">1299</div> 
+     </div><div class="list_item" style="background: url(img/The-Amazing-Spider-Man-1.jpg) no-repeat center center;background-size:cover">
+     <div class="price">1299</div> 
+     </div><div class="list_item" style="background: url(img/The-Amazing-Spider-Man-2.jpg) no-repeat center center;background-size:cover">
+     <div class="price">1299</div> 
+     </div><div class="list_item" style="background: url(img/h1z1.jpg) no-repeat center center;background-size:cover">
+     <div class="price">1200</div> 
+     </div><div class="list_item" style="background: url(img/The_Witcher_3.jpg) no-repeat center center;background-size:cover">
+     <div class="price">1199</div> 
+     </div><div class="list_item" style="background: url(img/star_wars.jpg) no-repeat center center;background-size:cover">
+     <div class="price">1199</div> 
+     </div><div class="list_item" style="background: url(img/mad_max.jpg) no-repeat center center;background-size:cover">
+     <div class="price">1049</div> 
+     </div><div class="list_item" style="background: url(img/Titanfall.jpg) no-repeat center center;background-size:cover">
+     <div class="price">999</div> 
+     </div><div class="list_item" style="background: url(img/bf4.jpg) no-repeat center center;background-size:cover">
+     <div class="price">999</div> 
+     </div><div class="list_item" style="background: url(img/bf3.jpg) no-repeat center center;background-size:cover">
+     <div class="price">999</div> 
+     </div><div class="list_item" style="background: url(img/The_Evil_Within.jpg) no-repeat center center;background-size:cover">
+     <div class="price">999</div> 
+     </div><div class="list_item" style="background: url(img/evolve.jpg) no-repeat center center;background-size:cover">
+     <div class="price">999</div> 
+     </div><div class="list_item" style="background: url(img/mafia2.jpg) no-repeat center center;background-size:cover">
+     <div class="price">999</div> 
+     </div><div class="list_item" style="background: url(img/cod_mw_2.jpg) no-repeat center center;background-size:cover">
+     <div class="price">899</div> 
+     </div><div class="list_item" style="background: url(img/borderlands_2.jpg) no-repeat center center;background-size:cover">
+     <div class="price">899</div> 
+     </div><div class="list_item" style="background: url(img/mortal_kombat_x.jpg) no-repeat center center;background-size:cover">
+     <div class="price">899</div> 
+     </div><div class="list_item" style="background: url(img/dmc.jpg) no-repeat center center;background-size:cover">
+     <div class="price">749</div> 
+     </div><div class="list_item" style="background: url(img/dishonored.jpg) no-repeat center center;background-size:cover">
+     <div class="price">659</div> 
+     </div><div class="list_item" style="background: url(img/sam3.jpg) no-repeat center center;background-size:cover">
+     <div class="price">599</div> 
+     </div><div class="list_item" style="background: url(img/sleeping-dogs.jpg) no-repeat center center;background-size:cover">
+     <div class="price">599</div> 
+     </div><div class="list_item" style="background: url(img/WoW.jpg) no-repeat center center;background-size:cover">
+     <div class="price">549</div> 
+     </div><div class="list_item" style="background: url(img/dirt_3.jpg) no-repeat center center;background-size:cover">
+     <div class="price">500</div> 
+     </div><div class="list_item" style="background: url(img/grid_2.jpg) no-repeat center center;background-size:cover">
+     <div class="price">500</div> 
+     </div><div class="list_item" style="background: url(img/Ark_Surviva.jpg) no-repeat center center;background-size:cover">
+     <div class="price">499</div> 
+     </div><div class="list_item" style="background: url(img/left_dead_2.jpg) no-repeat center center;background-size:cover">
+     <div class="price">499</div> 
+     </div><div class="list_item" style="background: url(img/thief.jpg) no-repeat center center;background-size:cover">
+     <div class="price">499</div> 
+     </div><div class="list_item" style="background: url(img/metro_redux_bundle.jpg) no-repeat center center;background-size:cover">
+     <div class="price">499</div> 
+     </div><div class="list_item" style="background: url(img/arkham_origin.jpg) no-repeat center center;background-size:cover">
+     <div class="price">499</div> 
+     </div><div class="list_item" style="background: url(img/hurtworld.jpg) no-repeat center center;background-size:cover">
+     <div class="price">449</div> 
+     </div><div class="list_item" style="background: url(img/walking_dead.jpg) no-repeat center center;background-size:cover">
+     <div class="price">449</div> 
+     </div><div class="list_item" style="background: url(img/csgo.jpg) no-repeat center center;background-size:cover">
+     <div class="price">449</div> 
+     </div><div class="list_item" style="background: url(img/race.jpg) no-repeat center center;background-size:cover">
+     <div class="price">429</div> 
+     </div><div class="list_item" style="background: url(img/rust.jpg) no-repeat center center;background-size:cover">
+     <div class="price">419</div> 
+     </div><div class="list_item" style="background: url(img/long_dark.png) no-repeat center center;background-size:cover">
+     <div class="price">419</div> 
+     </div><div class="list_item" style="background: url(img/rocket_league.jpg) no-repeat center center;background-size:cover">
+     <div class="price">419</div> 
+     </div><div class="list_item" style="background: url(img/dead_island.jpg) no-repeat center center;background-size:cover">
+     <div class="price">419</div> 
+     </div><div class="list_item" style="background: url(img/arkham_city.jpg) no-repeat center center;background-size:cover">
+     <div class="price">419</div> 
+     </div><div class="list_item" style="background: url(img/Gang_Beasts.jpg) no-repeat center center;background-size:cover">
+     <div class="price">419</div> 
+     </div><div class="list_item" style="background: url(img/mortal_kombat_komplete_edition.jpg) no-repeat center center;background-size:cover">
+     <div class="price">419</div> 
+     </div><div class="list_item" style="background: url(img/metro_last.jpg) no-repeat center center;background-size:cover">
+     <div class="price">419</div> 
+     </div><div class="list_item" style="background: url(img/outlast.jpg) no-repeat center center;background-size:cover">
+     <div class="price">419</div> 
+     </div><div class="list_item" style="background: url(img/borderlands.jpg) no-repeat center center;background-size:cover">
+     <div class="price">419</div> 
+     </div><div class="list_item" style="background: url(img/ryse_son_of_rome.jpg) no-repeat center center;background-size:cover">
+     <div class="price">419</div> 
+     </div><div class="list_item" style="background: url(img/life_is_strange.jpg) no-repeat center center;background-size:cover">
+     <div class="price">400</div> 
+     </div><div class="list_item" style="background: url(img/portal_2.jpg) no-repeat center center;background-size:cover">
+     <div class="price">399</div> 
+     </div><div class="list_item" style="background: url(img/Tomb_Raider.jpg) no-repeat center center;background-size:cover">
+     <div class="price">399</div> 
+     </div><div class="list_item" style="background: url(img/killing_flour.jpg) no-repeat center center;background-size:cover">
+     <div class="price">399</div> 
+     </div><div class="list_item" style="background: url(img/Deus_Ex.jpg) no-repeat center center;background-size:cover">
+     <div class="price">399</div> 
+     </div><div class="list_item" style="background: url(img/Hitman-Absolution.jpg) no-repeat center center;background-size:cover">
+     <div class="price">399</div> 
+     </div><div class="list_item" style="background: url(img/arma_2.jpg) no-repeat center center;background-size:cover">
+     <div class="price">399</div> 
+     </div><div class="list_item" style="background: url(img/ss2013.jpg) no-repeat center center;background-size:cover">
+     <div class="price">380</div> 
+     </div><div class="list_item" style="background: url(img/149.jpg) no-repeat center center;background-size:cover">
+     <div class="price">349</div> 
+     </div><div class="list_item" style="background: url(img/theforest.jpg) no-repeat center center;background-size:cover">
+     <div class="price">349</div> 
+     </div><div class="list_item" style="background: url(img/saints_row_4.jpg) no-repeat center center;background-size:cover">
+     <div class="price">349</div> 
+     </div><div class="list_item" style="background: url(img/deep.png) no-repeat center center;background-size:cover">
+     <div class="price">349</div> 
+     </div><div class="list_item" style="background: url(img/Insurgency.jpg) no-repeat center center;background-size:cover">
+     <div class="price">349</div> 
+     </div><div class="list_item" style="background: url(img/H2S.jpg) no-repeat center center;background-size:cover">
+     <div class="price">349</div> 
+     </div><div class="list_item" style="background: url(img/Dont_Starve.jpg) no-repeat center center;background-size:cover">
+     <div class="price">349</div> 
+     </div><div class="list_item" style="background: url(img/saints_row_3.jpg) no-repeat center center;background-size:cover">
+     <div class="price">349</div> 
+     </div><div class="list_item" style="background: url(img/hit.jpg) no-repeat center center;background-size:cover">
+     <div class="price">330</div> 
+     </div><div class="list_item" style="background: url(img/Just_Cause_2.jpg) no-repeat center center;background-size:cover">
+     <div class="price">326</div> 
+     </div><div class="list_item" style="background: url(img/Mirror_Edge.jpg) no-repeat center center;background-size:cover">
+     <div class="price">300</div> 
+     </div><div class="list_item" style="background: url(img/Need_for_Speed_Hot_Pursuit.jpg) no-repeat center center;background-size:cover">
+     <div class="price">299</div> 
+     </div><div class="list_item" style="background: url(img/garry_mod.jpg) no-repeat center center;background-size:cover">
+     <div class="price">249</div> 
+     </div><div class="list_item" style="background: url(img/terraria.jpg) no-repeat center center;background-size:cover">
+     <div class="price">249</div> 
+     </div><div class="list_item" style="background: url(img/fallout_new_vegas.jpg) no-repeat center center;background-size:cover">
+     <div class="price">219</div> 
+     </div><div class="list_item" style="background: url(img/schance.jpg) no-repeat center center;background-size:cover">
+     <div class="price">0</div> 
+     </div><div class="clearfix"></div>
+</div>
+<a href="index.htm" style="color: #fff; text-decoration: none; margin-left: 370px; margin-bottom: 20px;" class="red-btn"><span id="click-clack-bang">Испытать удачу за 69 рублей</span></a>
+</div>
+</div>
+</div>
+</div>	 
+<style>
+#support_chat {
+    border-radius: 20px 20px 0px 0px;
+    width: 300px;
+    z-index: 1000;
+    position: fixed;
+    bottom: 0px;
+    right: 13px;
+    background: #C71219;
+    padding: 13px 8px 7px;
+    color: #eee;
+    /* border-bottom: 1px solid #48525e; */
+    /* border-top: 3px solid #76cfe2; */
+    text-align: center;
+    font-weight: 100;
+    font-size: 14px;
+    text-transform: none;
+	text-decoration: none;
+    cursor: pointer;
+}
+</style>
+<a target="_blank" href="https://vk.com/im?sel=-122270852" id="support_chat"><img style="margin-left: 70px;width: 20px;float: left;" src="img\convert.png"><div style="margin-left: 8px;float: left;">Связаться с нами</div></a>
+
+<footer class="main-footer">
+	<!-- инфо блок -->
+	<div class="wrapper footer-box">
+		<div class="info">
+			<div class="spins count">
+				<span id="games_count">0</span>
+				испытало<br>удачу
+			</div>
+			<div class="second_chance count">
+				<span id="two_chance">0</span>
+				вторых шансов<br>выпало
+			</div>
+			<div class="second_chance count">
+				<span id="users_count">0</span>
+				игроков<br>зарегистрировано
+			</div>
+			<div class="cool count">
+				<span id="online">0</span>
+				игроков<br>онлайн
+			</div>
+			<div class="social-links">
+				<div class="ya-share2" data-services="vkontakte,facebook,odnoklassniki,gplus" data-counter=""></div>
+			</div>
+			
+            
+			<div class="clearfix"></div>
+		</div>
+
+	
+<!-- инфо блок -->
+
+
+		
+		
+			<span class="pay-title">оплата любым способом</span>
+					<div class="pay">
+						<img src="img\pay1.png">
+						<img src="img\pay2.png">
+						<img src="img\pay3.png">
+						<img src="img\pay14.png">
+						<img src="img\pay15.png">
+						<img src="img\pay16.png">
+						<img src="img\pay17.png">
+						<img src="img\pay18.png">
+						<img src="img\pay4.png">
+						<img src="img\pay5.png">
+						<img src="img\pay6.png">
+						<img src="img\pay7.png">
+						<img src="img\pay8.png">
+						<img src="img\pay9.png">
+						<img src="img\pay10.png">
+						<img src="img\pay11.png">
+						<img src="img\pay12.png">
+						<img src="img\pay13.png">
+					</div>
+		
+			<div class="col-left">
+				<div class="counters"><img src="img\banner-vk.png"></div>
+				<div class="counters"><img src="img\banner-g.png"></div>
+				<div class="counters"><img src="img\banner-steam.png"></div>
+			</div>
+			
+			
+			<div class="col-right">
+				<a class="developers" target="_blank" href="http://coolbig.ru/"><img src="img\developers.png" alt=""></a>
+			</div>
+			<div class="copyright">
+			<span class="small">bombkeys.ru</span>  
+Все права защищены</div>
+			<!-- <div class="cl"></div> -->
+		</div>
+</footer>
+</body>
+</html>

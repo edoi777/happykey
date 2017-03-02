@@ -1,0 +1,963 @@
+[33msteamclient:[0m connecting to 155.133.242.8:27019
+[33msteamclient:[0m connected
+[33msteamclient:[0m encrypt request
+[33msteamclient:[0m handshake complete
+[31msteamclient:[0m web authentication Error: getaddrinfo ENOTFOUND api.steampowered.com, retrying
+[31msteamclient:[0m web authentication Error: getaddrinfo ENOTFOUND api.steampowered.com, retrying
+[ 22:32:29 ] Получаем новые ставки. Конец раунда.  
+[ 22:32:32 ] Получаем новые ставки. Конец раунда.  
+[ 22:32:32 ] Начинаем раунд №605
+[ 22:32:36 ] Новая ставка: 809843758 (76561198212911161)
+[ 22:32:36 ] Начинаем обрабатывать ставку: 809843758 (76561198212911161)
+[ 22:32:36 ] Проверяем вещи в ставке: 809843758 (76561198212911161)
+[ 22:32:36 ] Все ОК. Ожидаем подтверждения ставки: 809843758 (76561198212911161)
+[ 22:33:50 ] Новая ставка: 812618239 (76561198175415553)
+[ 22:33:50 ] Начинаем обрабатывать ставку: 812618239 (76561198175415553)
+[ 22:33:50 ] Проверяем вещи в ставке: 812618239 (76561198175415553)
+[ 22:33:50 ] Все ОК. Ожидаем подтверждения ставки: 812618239 (76561198175415553)
+[ 22:33:54 ] Обрабатываем ставку: 812618239 (76561198175415553)
+[ 22:33:54 ] Статус ставки: 1 (812618239 (76561198175415553))
+[ 22:33:54 ] Предмет: 4035784370
+[ 22:33:54 ] Предмет: 4034664390
+[ 22:33:54 ] Предмет: 4035784473
+[ 22:33:54 ] Предмет: 4030975499
+[ 22:33:54 ] Предмет: 4030975560
+[ 22:33:54 ] Предмет: 4030975313
+[ 22:33:54 ] Предмет: 4030975257
+[ 22:33:54 ] Предмет: 4030975212
+[ 22:33:54 ] Предмет: 4030975448
+[ 22:33:54 ] Предмет: 4030975338
+[ 22:33:54 ] Предмет: 4030975149
+[ 22:33:54 ] Предмет: 4030975106
+[ 22:33:54 ] Предмет: 4030975019
+[ 22:33:54 ] Предмет: 4030235188
+[ 22:33:54 ] Предмет: 4030235107
+[ 22:33:54 ] Предмет: 4030234639
+[ 22:33:54 ] Предмет: 4030234710
+[ 22:33:54 ] Предмет: 4030234775
+[ 22:33:54 ] Предмет: 4030234854
+[ 22:33:54 ] Принимаем обмен: 812618239 (76561198175415553)
+[ 22:34:16 ] Ответ: null
+[ 22:34:16 ] Ставка принята: 812618239 (76561198175415553)
+[ 22:34:16 ] пользователь в игре: 76561198175415553
+[ 22:34:49 ] Новая ставка: 812620849 (76561198167248259)
+[ 22:34:49 ] Начинаем обрабатывать ставку: 812620849 (76561198167248259)
+[ 22:34:49 ] Проверяем вещи в ставке: 812620849 (76561198167248259)
+[ 22:34:49 ] Все ОК. Ожидаем подтверждения ставки: 812620849 (76561198167248259)
+[ 22:34:52 ] Обрабатываем ставку: 812620849 (76561198167248259)
+[ 22:34:52 ] Статус ставки: 1 (812620849 (76561198167248259))
+[ 22:34:52 ] Предмет: 4038501068
+[ 22:34:52 ] Предмет: 4038501004
+[ 22:34:52 ] Предмет: 4038500910
+[ 22:34:52 ] Предмет: 4038500826
+[ 22:34:52 ] Предмет: 4038406884
+[ 22:34:52 ] Предмет: 4038500762
+[ 22:34:52 ] Предмет: 4005215118
+[ 22:34:52 ] Предмет: 4018749524
+[ 22:34:52 ] Предмет: 4005214936
+[ 22:34:52 ] Предмет: 4005214692
+[ 22:34:52 ] Предмет: 4005213329
+[ 22:34:52 ] Предмет: 4005214994
+[ 22:34:52 ] Принимаем обмен: 812620849 (76561198167248259)
+[ 22:35:06 ] Ответ: null
+[ 22:35:06 ] Ставка принята: 812620849 (76561198167248259)
+[ 22:35:06 ] пользователь в игре: 76561198167248259
+[ 22:36:25 ] Новая ставка: 812624965 (76561198175415553)
+[ 22:36:25 ] Произошла ошибка: 812624965 (76561198175415553) - bot_item_limit
+76561198175415553 bot_item_limit
+[ 22:36:25 ] Ставка отклоняется по причине: bot_item_limit (812624965 (76561198175415553)
+[ 22:36:49 ] Новая ставка: 812625988 (76561198175415553)
+[ 22:36:49 ] Начинаем обрабатывать ставку: 812625988 (76561198175415553)
+[ 22:36:49 ] Проверяем вещи в ставке: 812625988 (76561198175415553)
+[ 22:36:49 ] Все ОК. Ожидаем подтверждения ставки: 812625988 (76561198175415553)
+[ 22:36:54 ] Обрабатываем ставку: 812625988 (76561198175415553)
+[ 22:36:54 ] Статус ставки: 1 (812625988 (76561198175415553))
+[ 22:36:54 ] Предмет: 4034419113
+[ 22:36:54 ] Сумма ставки меньше минимальной: 812625988 (76561198175415553)
+76561198175415553 bot_price_too_small
+[ 22:36:54 ] Ставка отклоняется по причине: bot_price_too_small (812625988 (76561198175415553)
+[ 22:37:16 ]  
+Оферов в очереди: 1 
+ Оферов обрабатываеться 0
+[ 22:37:17 ] Получаем новые ставки. Конец раунда.  
+[ 22:37:17 ]  
+Оферов в очереди: 1 
+ Оферов обрабатываеться 0
+[ 22:37:18 ] Игра закончена. Отказываемся от ставки: 809843758 (76561198212911161)
+76561198212911161 bot_round_come_to_an_end
+[ 22:37:18 ] Ставка отклоняется по причине: bot_round_come_to_an_end (809843758 (76561198212911161)
+[ 22:37:18 ]  
+Оферов в очереди: 0 
+ Оферов обрабатываеться 0
+[ 22:37:20 ] Получаем новые ставки. Конец раунда.  
+[ 22:37:23 ] Получаем новые ставки. Конец раунда.  
+[ 22:37:23 ] Закончили раунд
+		USER: {"nickname":"teddy csgofairplay.com","steamid":"76561198175415553","avatar":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/67/678e0cbeaeb25e61fd9641ef4f3fff73ceedbba8_full.jpg","money":0.9299999999999999,"points":1.023}
+[ 22:37:23 ] Пользователь: 76561198175415553
+ Шанс: 63.03142329020333
+ Поинты пользователя: 1.023
+		USER: {"nickname":"CSGOFairPlay.com - JACKPOT","steamid":"76561198167248259","avatar":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/6d/6daf0f288e50b2765386d1d9610613e7dcf7d2cd_full.jpg","money":0.6,"points":0.6}
+[ 22:37:23 ] Пользователь: 76561198167248259
+ Шанс: 36.96857670979668
+ Поинты пользователя: 0.6
+[ 22:37:23 ]  
+Оферов в очереди: 0 
+ Оферов обрабатываеться 0
+[ 22:37:23 ]  Обработка результата. Победитель: teddy csgofairplay.com (76561198175415553)
+[ 22:37:23 ]  Вычесляем процент коммиссии...
+[ 22:37:23 ] Нашли наш домен в нике, комиссия на 5%
+[ 22:37:23 ] Сумма комиссии: 0.0765$
+[ 22:37:23 ] Берем комиссию с вещей
+[ 22:37:26 ] Получаем новые ставки. Конец раунда.  
+[ 22:37:26 ] Загрузили инвентарь бота для выдачи приза победителю
+[ Falchion Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Operation Phoenix Weapon Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Operation Phoenix Weapon Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Operation Phoenix Weapon Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Operation Phoenix Weapon Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Operation Phoenix Weapon Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Operation Breakout Weapon Case ] Добавляем вещь в обмен: (0.03 $) [base_grade]
+[ Falchion Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Operation Phoenix Weapon Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Chroma Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Chroma Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ UMP-45 | Urban DDPAT (Field-Tested) ] Добавляем вещь в обмен: (0.03 $) [consumer_grade]
+[ SG 553 | Waves Perforated (Field-Tested) ] Добавляем вещь в обмен: (0.03 $) [consumer_grade]
+[ PP-Bizon | Urban Dashed (Battle-Scarred) ] Добавляем вещь в обмен: (0.03 $) [consumer_grade]
+[ MAG-7 | Heaven Guard (Minimal Wear) ] Добавляем вещь в обмен: (0.07 $) [mil-spec_grade]
+[ AUG | Contractor (Field-Tested) ] Добавляем вещь в обмен: (0.03 $) [consumer_grade]
+[ P2000 | Grassland (Field-Tested) ] Добавляем вещь в обмен: (0.24 $) [industrial_grade]
+[ Falchion Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Falchion Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Operation Breakout Weapon Case ] Добавляем вещь в обмен: (0.03 $) [base_grade]
+[ Falchion Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Chroma 2 Case ] Добавляем вещь в обмен: (0.05 $) [base_grade]
+[ Operation Phoenix Weapon Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ PP-Bizon | Urban Dashed (Field-Tested) ] Добавляем вещь в обмен: (0.03 $) [consumer_grade]
+[ G3SG1 | VariCamo (Field-Tested) ] Добавляем вещь в обмен: (0.05 $) [industrial_grade]
+[ P90 | Sand Spray (Minimal Wear) ] Добавляем вещь в обмен: (0.04 $) [consumer_grade]
+[ Glock-18 | Wraiths (Field-Tested) ] Добавляем вещь в обмен: (0.09 $) [mil-spec_grade]
+[ MAG-7 | Metallic DDPAT (Factory New) ] Добавляем вещь в обмен: (0.06 $) [industrial_grade]
+[ UMP-45 | Riot (Minimal Wear) ] Добавляем вещь в обмен: (0.09 $) [mil-spec_grade]
+[ 22:37:26 ] Отправляем комиссию вещами
+[ 22:37:26 ] Собранно комиссии: 0.07
+ Полная сумма комиссии: 0.0765$ 
+ Поинты раунда: 1.6229999999999998
+[ 22:37:26 ] Отправляем победителя в БД
+[ 22:37:26 ] Отправляем обмен победителю:
+                  partnerAccountId: 215149825
+                  accessToken: 4ZsSPbLd
+                  itemsFromMe: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+                  itemsFromThem: 
+Установка чемпиона
+TRUE [object Object]
+[ 22:37:29 ] Получаем новые ставки. Конец раунда.  
+[ 22:37:30 ] Приз отправлен:[object Object]
+[ 22:37:31 ] Комиссия отправлена.
+[ 22:37:32 ] Получаем новые ставки. Конец раунда.  
+[ 22:37:35 ] Получаем новые ставки. Конец раунда.  
+[ 22:37:38 ] Получаем новые ставки. Конец раунда.  
+[ 22:37:41 ] Получаем новые ставки. Конец раунда.  
+[ 22:37:44 ] Получаем новые ставки. Конец раунда.  
+[ 22:37:45 ] Начинаем раунд №606
+[ 23:03:48 ] Получаем новые ставки. Ошибка стима: Error: getaddrinfo ENOTFOUND api.steampowered.com
+[ 23:03:57 ] Получаем новые ставки. Ошибка стима: Error: getaddrinfo ENOTFOUND api.steampowered.com
+[ 23:04:00 ] Получаем новые ставки. Ошибка стима: Error: getaddrinfo ENOTFOUND api.steampowered.com
+[ 23:04:18 ] Получаем новые ставки. Ошибка стима: Error: getaddrinfo ENOTFOUND api.steampowered.com
+[ 23:04:21 ] Получаем новые ставки. Ошибка стима: Error: getaddrinfo ENOTFOUND api.steampowered.com
+[ 23:04:24 ] Получаем новые ставки. Ошибка стима: Error: getaddrinfo ENOTFOUND api.steampowered.com
+[ 23:04:33 ] Получаем новые ставки. Ошибка стима: Error: getaddrinfo ENOTFOUND api.steampowered.com
+[ 23:04:42 ] Получаем новые ставки. Ошибка стима: Error: getaddrinfo ENOTFOUND api.steampowered.com
+[ 23:05:00 ] Получаем новые ставки. Ошибка стима: Error: getaddrinfo ENOTFOUND api.steampowered.com
+[ 23:05:06 ] Получаем новые ставки. Ошибка стима: Error: getaddrinfo ENOTFOUND api.steampowered.com
+[ 23:05:12 ] Получаем новые ставки. Ошибка стима: Error: getaddrinfo ENOTFOUND api.steampowered.com
+[ 23:05:18 ] Получаем новые ставки. Ошибка стима: Error: getaddrinfo ENOTFOUND api.steampowered.com
+[ 23:05:27 ] Получаем новые ставки. Ошибка стима: Error: getaddrinfo ENOTFOUND api.steampowered.com
+[ 23:05:30 ] Получаем новые ставки. Ошибка стима: Error: getaddrinfo ENOTFOUND api.steampowered.com
+[ 23:05:33 ] Получаем новые ставки. Ошибка стима: Error: getaddrinfo ENOTFOUND api.steampowered.com
+[ 23:08:19 ] Новая ставка: 812704962 (76561198175415553)
+[ 23:08:19 ] Начинаем обрабатывать ставку: 812704962 (76561198175415553)
+[ 23:08:19 ] Проверяем вещи в ставке: 812704962 (76561198175415553)
+[ 23:08:19 ] Все ОК. Ожидаем подтверждения ставки: 812704962 (76561198175415553)
+[ 23:08:31 ] Обрабатываем ставку: 812704962 (76561198175415553)
+[ 23:08:31 ] Статус ставки: 1 (812704962 (76561198175415553))
+[ 23:08:31 ] Предмет: 4039353442
+[ 23:08:31 ] Предмет: 4039353889
+[ 23:08:31 ] Предмет: 4039352543
+[ 23:08:31 ] Предмет: 4039352463
+[ 23:08:31 ] Предмет: 4039352881
+[ 23:08:31 ] Предмет: 4039353303
+[ 23:08:31 ] Предмет: 4039353819
+[ 23:08:31 ] Предмет: 4039352987
+[ 23:08:31 ] Предмет: 4039353090
+[ 23:08:31 ] Предмет: 4039353595
+[ 23:08:31 ] Предмет: 4039353732
+[ 23:08:31 ] Предмет: 4039353183
+[ 23:08:31 ] Предмет: 4039352778
+[ 23:08:31 ] Предмет: 4039352661
+[ 23:08:31 ] Предмет: 4039352373
+[ 23:08:31 ] Предмет: 4039352287
+[ 23:08:31 ] Предмет: 4039352201
+[ 23:08:31 ] Предмет: 4039351739
+[ 23:08:31 ] Предмет: 4039351890
+[ 23:08:31 ] Принимаем обмен: 812704962 (76561198175415553)
+[ 23:08:43 ] Ответ: null
+[ 23:08:43 ] Ставка принята: 812704962 (76561198175415553)
+[ 23:08:43 ] пользователь в игре: 76561198175415553
+[ 23:17:40 ] Новая ставка: 812727492 (76561198167248259)
+[ 23:17:40 ] Начинаем обрабатывать ставку: 812727492 (76561198167248259)
+[ 23:17:40 ] Проверяем вещи в ставке: 812727492 (76561198167248259)
+[ 23:17:40 ] Все ОК. Ожидаем подтверждения ставки: 812727492 (76561198167248259)
+[ 23:17:47 ] Обрабатываем ставку: 812727492 (76561198167248259)
+[ 23:17:47 ] Статус ставки: 1 (812727492 (76561198167248259))
+[ 23:17:47 ] Предмет: 4002965442
+[ 23:17:47 ] Предмет: 4000979789
+[ 23:17:47 ] Предмет: 4000979922
+[ 23:17:47 ] Предмет: 4005213145
+[ 23:17:47 ] Предмет: 4002965843
+[ 23:17:47 ] Принимаем обмен: 812727492 (76561198167248259)
+[ 23:17:47 ] Ответ: Error: getaddrinfo ENOTFOUND steamcommunity.com
+[ 23:17:48 ]{"response":{"offer":{"tradeofferid":"812727492","accountid_other":206982531,"message":"","expiration_time":1447618657,"trade_offer_state":2,"items_to_receive":[{"appid":"730","contextid":"2","assetid":"4002965442","classid":"310776987","instanceid":"302028390","amount":"1","missing":false},{"appid":"730","contextid":"2","assetid":"4000979789","classid":"992103570","instanceid":"302028390","amount":"1","missing":false},{"appid":"730","contextid":"2","assetid":"4000979922","classid":"720282219","instanceid":"188530139","amount":"1","missing":false},{"appid":"730","contextid":"2","assetid":"4005213145","classid":"310776711","instanceid":"302028390","amount":"1","missing":false},{"appid":"730","contextid":"2","assetid":"4002965843","classid":"1011938044","instanceid":"188530139","amount":"1","missing":false}],"is_our_offer":false,"time_created":1446409057,"time_updated":1446409057,"from_real_time_trade":false,"steamid_other":"76561198167248259"},"descriptions":[{"appid":730,"classid":"310776711","instanceid":"302028390","currency":false,"background_color":"","icon_url":"-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhh3szdYz9D4uO6nYeDg7mgariClDMFusQh2LiTo9nw0FCw_UU6Y2ymdtOXclBtZl6B_AXolby-m9bi6yrTVV9L","icon_url_large":"-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhh3szdYz9D4uO6nYeDg8j4MqnWkyUFscYiiLGVp42l2gXm_UY5az2nIoDDcgNrMw3S-gftxui-g8Lq6M-Y1zI97ZLIVAoT","descriptions":[{"type":"html","value":"Exterior: Factory New"},{"type":"html","value":" "},{"type":"html","value":"The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. It has been painted using an urban Digital Disruptive Pattern (DDPAT) hydrographic over a metallic base coat."},{"type":"html","value":" "},{"type":"html","value":"The Train Collection","color":"9da1a9"},{"type":"html","value":" "}],"tradable":true,"actions":[{"link":"steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D16872251020095773885","name":"Inspect in Game..."}],"name":"MAG-7 | Metallic DDPAT","name_color":"D2D2D2","type":"Industrial Grade Shotgun","market_name":"MAG-7 | Metallic DDPAT (Factory New)","market_hash_name":"MAG-7 | Metallic DDPAT (Factory New)","market_actions":[{"link":"steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D16872251020095773885","name":"Inspect in Game..."}],"commodity":false,"market_tradable_restriction":7},{"appid":730,"classid":"1011938044","instanceid":"188530139","currency":false,"background_color":"","icon_url":"-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJP7c-ikZKSqP_xMq3I2G4C65Yp2-yVotqm3lLs_ktla2ugcITBdAM4YgnQrwfqx7ro18Tq7s_XiSw00tyNQhw","icon_url_large":"-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJP7c-ikZKSqP_xMq3IqWdQ-sJ0xOyS9t-t2VHg_EVvZT_7IY6cegRtNVqE_FS4wr_v0MDousnOmyA16HI8pSGK5tWLb_I","descriptions":[{"type":"html","value":"Exterior: Battle-Scarred"},{"type":"html","value":" "},{"type":"html","value":"Easily recognizable for its unique bullpup design, the P90 a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been custom painted using a combination of hydrographics and careful stenciling and detailed with heat-transfer decals.\n\n<i>Tread softly Naomi...people in your line of work aren't known for their longevity - The Shield and The Serpent Part 2</i>"},{"type":"html","value":" "},{"type":"html","value":"The Falchion Collection","color":"9da1a9"},{"type":"html","value":" "}],"tradable":true,"actions":[{"link":"steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D2794730186952910871","name":"Inspect in Game..."}],"name":"P90 | Elite Build","name_color":"D2D2D2","type":"Mil-Spec Grade SMG","market_name":"P90 | Elite Build (Battle-Scarred)","market_hash_name":"P90 | Elite Build (Battle-Scarred)","market_actions":[{"link":"steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D2794730186952910871","name":"Inspect in Game..."}],"commodity":false,"market_tradable_restriction":7},{"appid":730,"classid":"310776987","instanceid":"302028390","currency":false,"background_color":"","icon_url":"-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7ODYYzxb08-3moS0mvLwOq7c2GlUuZR0ibiRpNqs2VXi-kI5Mm2hd4GdIQM9NwrW-Va5xObmjJK-uczXiSw0I3Bdoc4","icon_url_large":"-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7ODYYzxb08-3moS0mvLwOq7cqWdQ-sJ0xOvEpN3wiwXk-kVlYjj1JYfAIwJsMl_YqVS9l7zphpG7uZXAwHZhv3E8pSGKLTrSkWU","descriptions":[{"type":"html","value":"Exterior: Well-Worn"},{"type":"html","value":" "},{"type":"html","value":"Easily recognizable for its unique bullpup design, the P90 a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been spray-painted freehand with short, thick lines in contrasting colors.\n\n<i>Perfect for the insurgent on the go</i>"},{"type":"html","value":" "},{"type":"html","value":"The Dust 2 Collection","color":"9da1a9"},{"type":"html","value":" "}],"tradable":true,"actions":[{"link":"steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D7938830670597023385","name":"Inspect in Game..."}],"name":"P90 | Sand Spray","name_color":"D2D2D2","type":"Consumer Grade SMG","market_name":"P90 | Sand Spray (Well-Worn)","market_hash_name":"P90 | Sand Spray (Well-Worn)","market_actions":[{"link":"steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D7938830670597023385","name":"Inspect in Game..."}],"commodity":false,"market_tradable_restriction":7},{"appid":730,"classid":"720282219","instanceid":"188530139","currency":false,"background_color":"","icon_url":"-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79eJkIWKg__gPLfdqWdY781lxOrH9o-jiQXj-0BrMmrwdtTHdwQ6MgnR8lS4ku7o1sC7usmdmHZns3Q8pSGK4NV4g5I","icon_url_large":"-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79eJkIWKg__gPLfdqWdY781lteXA54vwxleyqBBqMmj0JIWSIwU9MwqC_1O6kr_ujZO6753OmiRkvHR2tHvZlkGpwUYbVEIcxNs","descriptions":[{"type":"html","value":"Exterior: Factory New"},{"type":"html","value":" "},{"type":"html","value":"The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been painted using a hydrographic of skulls over a silver metallic paint base.\n\n<i>Intimidation is the sincerest form of flattery</i>"},{"type":"html","value":" "},{"type":"html","value":"The Chroma Collection","color":"9da1a9"},{"type":"html","value":" "}],"tradable":true,"actions":[{"link":"steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D5350491864888674698","name":"Inspect in Game..."}],"name":"Glock-18 | Catacombs","name_color":"D2D2D2","type":"Mil-Spec Grade Pistol","market_name":"Glock-18 | Catacombs (Factory New)","market_hash_name":"Glock-18 | Catacombs (Factory New)","market_actions":[{"link":"steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D5350491864888674698","name":"Inspect in Game..."}],"commodity":false,"market_tradable_restriction":7},{"appid":730,"classid":"992103570","instanceid":"302028390","currency":false,"background_color":"","icon_url":"-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73cC9P9eOlnImFksj4OrzZgiUDvpIi3O2VrYn02A21_kFkZzimdofGJAc_Y1HSqAK9lObo1JO6vpjI1zI97bVJKki2","icon_url_large":"-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73cC9P9eOlnImFksj4OrzZglRd6dd2j6eTo9um3lDg8xY9Y2CiIYSddldrM1mDrFC_w-ft18W_6ZXOmHdluCUj-z-DyF0bRmV5","descriptions":[{"type":"html","value":"Exterior: Factory New"},{"type":"html","value":" "},{"type":"html","value":"A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required. It has been covered in a metallic foil stamped with a camouflage pattern.\n\n<i>Remember your training</i>"},{"type":"html","value":" "},{"type":"html","value":"The Chop Shop Collection","color":"9da1a9"},{"type":"html","value":" "}],"tradable":true,"actions":[{"link":"steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D11857633440450606079","name":"Inspect in Game..."}],"name":"CZ75-Auto | Army Sheen","name_color":"D2D2D2","type":"Consumer Grade Pistol","market_name":"CZ75-Auto | Army Sheen (Factory New)","market_hash_name":"CZ75-Auto | Army Sheen (Factory New)","market_actions":[{"link":"steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D11857633440450606079","name":"Inspect in Game..."}],"commodity":false,"market_tradable_restriction":7}]}}
+[ 23:17:48 ] Ошибка обмена: Error: getaddrinfo ENOTFOUND steamcommunity.com Отказываемся от ставки: 812727492 (76561198167248259)
+76561198167248259 bot_tradeoffer_not_confirmed
+[ 23:17:48 ] Ставка отклоняется по причине: bot_tradeoffer_not_confirmed (812727492 (76561198167248259)
+[ 23:18:38 ] Новая ставка: 812729801 (76561198175415553)
+[ 23:18:38 ] Произошла ошибка: 812729801 (76561198175415553) - bot_item_limit
+76561198175415553 bot_item_limit
+[ 23:18:38 ] Ставка отклоняется по причине: bot_item_limit (812729801 (76561198175415553)
+[ 23:19:52 ] Новая ставка: 812732731 (76561198167248259)
+[ 23:19:52 ] Начинаем обрабатывать ставку: 812732731 (76561198167248259)
+[ 23:19:52 ] Проверяем вещи в ставке: 812732731 (76561198167248259)
+[ 23:19:52 ] Все ОК. Ожидаем подтверждения ставки: 812732731 (76561198167248259)
+[ 23:19:57 ] Обрабатываем ставку: 812732731 (76561198167248259)
+[ 23:19:57 ] Статус ставки: 1 (812732731 (76561198167248259))
+[ 23:19:57 ] Предмет: 4039596441
+[ 23:19:57 ] Предмет: 4039596368
+[ 23:19:57 ] Предмет: 4031123179
+[ 23:19:57 ] Предмет: 4002965442
+[ 23:19:57 ] Предмет: 4002965843
+[ 23:19:57 ] Предмет: 4002965782
+[ 23:19:57 ] Предмет: 4002965720
+[ 23:19:57 ] Предмет: 4005213145
+[ 23:19:57 ] Предмет: 4002965537
+[ 23:19:57 ] Предмет: 4031850543
+[ 23:19:57 ] Принимаем обмен: 812732731 (76561198167248259)
+[ 23:20:07 ] Ответ: null
+[ 23:20:07 ] Ставка принята: 812732731 (76561198167248259)
+[ 23:20:07 ] пользователь в игре: 76561198167248259
+[ 23:22:07 ] Обрабатываем фишки
+[ 23:22:07 ] Фишка: 28
+[ 23:22:07 ] пользователь в игре: 76561198167248259
+[ 23:22:18 ]  
+Оферов в очереди: 0 
+ Оферов обрабатываеться 0
+[ 23:22:18 ] Получаем новые ставки. Конец раунда.  
+[ 23:22:21 ] Получаем новые ставки. Конец раунда.  
+[ 23:22:23 ] Закончили раунд
+		USER: {"nickname":"teddy csgofairplay.com","steamid":"76561198175415553","avatar":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/67/678e0cbeaeb25e61fd9641ef4f3fff73ceedbba8_full.jpg","money":1.0700000000000003,"points":1.1770000000000005}
+[ 23:22:23 ] Пользователь: 76561198175415553
+ Шанс: 42.08080085806222
+ Поинты пользователя: 1.1770000000000005
+		USER: {"nickname":"CSGOFairPlay.com - JACKPOT","steamid":"76561198167248259","avatar":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/6d/6daf0f288e50b2765386d1d9610613e7dcf7d2cd_full.jpg","money":1.62,"points":1.62}
+[ 23:22:23 ] Пользователь: 76561198167248259
+ Шанс: 57.91919914193778
+ Поинты пользователя: 1.62
+[ 23:22:23 ]  
+Оферов в очереди: 0 
+ Оферов обрабатываеться 0
+[ 23:22:23 ]  Обработка результата. Победитель: teddy csgofairplay.com (76561198175415553)
+[ 23:22:23 ]  Вычесляем процент коммиссии...
+[ 23:22:23 ] Нашли наш домен в нике и игрок сделал первую ставку, коммиссия 3%
+[ 23:22:23 ] Сумма комиссии: 0.08070000000000001$
+[ 23:22:23 ] Берем комиссию с вещей
+[ 23:22:23 ] Ошибка загрузки инвентаря: Error: getaddrinfo ENOTFOUND steamcommunity.com
+[ 23:22:24 ] Получаем новые ставки. Конец раунда.  
+[ 23:22:25 ]  
+Оферов в очереди: 0 
+ Оферов обрабатываеться 0
+[ 23:22:25 ]  Обработка результата. Победитель: teddy csgofairplay.com (76561198175415553)
+[ 23:22:25 ]  Вычесляем процент коммиссии...
+[ 23:22:25 ] Нашли наш домен в нике и игрок сделал первую ставку, коммиссия 3%
+[ 23:22:25 ] Сумма комиссии: 0.08070000000000001$
+[ 23:22:25 ] Берем комиссию с вещей
+[ 23:22:25 ] Ошибка загрузки инвентаря: Error: getaddrinfo ENOTFOUND steamcommunity.com
+[ 23:22:27 ]  
+Оферов в очереди: 0 
+ Оферов обрабатываеться 0
+[ 23:22:27 ]  Обработка результата. Победитель: teddy csgofairplay.com (76561198175415553)
+[ 23:22:27 ]  Вычесляем процент коммиссии...
+[ 23:22:27 ] Нашли наш домен в нике и игрок сделал первую ставку, коммиссия 3%
+[ 23:22:27 ] Сумма комиссии: 0.08070000000000001$
+[ 23:22:27 ] Берем комиссию с вещей
+[ 23:22:27 ] Ошибка загрузки инвентаря: Error: getaddrinfo ENOTFOUND steamcommunity.com
+[ 23:22:27 ] Получаем новые ставки. Конец раунда.  
+[ 23:22:29 ]  
+Оферов в очереди: 0 
+ Оферов обрабатываеться 0
+[ 23:22:29 ]  Обработка результата. Победитель: teddy csgofairplay.com (76561198175415553)
+[ 23:22:29 ]  Вычесляем процент коммиссии...
+[ 23:22:29 ] Нашли наш домен в нике и игрок сделал первую ставку, коммиссия 3%
+[ 23:22:29 ] Сумма комиссии: 0.08070000000000001$
+[ 23:22:29 ] Берем комиссию с вещей
+[ 23:22:30 ] Ошибка загрузки инвентаря: Error: getaddrinfo ENOTFOUND steamcommunity.com
+[ 23:22:30 ] Получаем новые ставки. Конец раунда.  
+[ 23:22:32 ]  
+Оферов в очереди: 0 
+ Оферов обрабатываеться 0
+[ 23:22:32 ]  Обработка результата. Победитель: teddy csgofairplay.com (76561198175415553)
+[ 23:22:32 ]  Вычесляем процент коммиссии...
+[ 23:22:32 ] Нашли наш домен в нике и игрок сделал первую ставку, коммиссия 3%
+[ 23:22:32 ] Сумма комиссии: 0.08070000000000001$
+[ 23:22:32 ] Берем комиссию с вещей
+[ 23:22:32 ] Ошибка загрузки инвентаря: Error: getaddrinfo ENOTFOUND steamcommunity.com
+[ 23:22:33 ] Получаем новые ставки. Конец раунда.  
+[ 23:22:34 ]  
+Оферов в очереди: 0 
+ Оферов обрабатываеться 0
+[ 23:22:34 ]  Обработка результата. Победитель: teddy csgofairplay.com (76561198175415553)
+[ 23:22:34 ]  Вычесляем процент коммиссии...
+[ 23:22:34 ] Нашли наш домен в нике и игрок сделал первую ставку, коммиссия 3%
+[ 23:22:34 ] Сумма комиссии: 0.08070000000000001$
+[ 23:22:34 ] Берем комиссию с вещей
+[ 23:22:34 ] Ошибка загрузки инвентаря: Error: getaddrinfo ENOTFOUND steamcommunity.com
+[ 23:22:36 ]  
+Оферов в очереди: 0 
+ Оферов обрабатываеться 0
+[ 23:22:36 ]  Обработка результата. Победитель: teddy csgofairplay.com (76561198175415553)
+[ 23:22:36 ]  Вычесляем процент коммиссии...
+[ 23:22:36 ] Нашли наш домен в нике и игрок сделал первую ставку, коммиссия 3%
+[ 23:22:36 ] Сумма комиссии: 0.08070000000000001$
+[ 23:22:36 ] Берем комиссию с вещей
+[ 23:22:36 ] Получаем новые ставки. Конец раунда.  
+[ 23:22:39 ] Загрузили инвентарь бота для выдачи приза победителю
+[ Glock-18 | Wraiths (Field-Tested) ] Добавляем вещь в обмен: (0.09 $) [mil-spec_grade]
+[ Falchion Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Falchion Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ MAG-7 | Heaven Guard (Minimal Wear) ] Добавляем вещь в обмен: (0.07 $) [mil-spec_grade]
+[ MAG-7 | Metallic DDPAT (Factory New) ] Добавляем вещь в обмен: (0.06 $) [industrial_grade]
+[ AUG | Contractor (Field-Tested) ] Добавляем вещь в обмен: (0.03 $) [consumer_grade]
+[ P2000 | Grassland (Field-Tested) ] Добавляем вещь в обмен: (0.24 $) [industrial_grade]
+[ P90 | Sand Spray (Minimal Wear) ] Добавляем вещь в обмен: (0.04 $) [consumer_grade]
+[ UMP-45 | Riot (Minimal Wear) ] Добавляем вещь в обмен: (0.09 $) [mil-spec_grade]
+[ UMP-45 | Urban DDPAT (Field-Tested) ] Добавляем вещь в обмен: (0.03 $) [consumer_grade]
+[ PP-Bizon | Urban Dashed (Battle-Scarred) ] Добавляем вещь в обмен: (0.03 $) [consumer_grade]
+[ SG 553 | Waves Perforated (Field-Tested) ] Добавляем вещь в обмен: (0.03 $) [consumer_grade]
+[ Falchion Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Falchion Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Falchion Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Chroma Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Chroma Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Falchion Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Operation Breakout Weapon Case ] Добавляем вещь в обмен: (0.03 $) [base_grade]
+[ AK-47 | Safari Mesh (Field-Tested) ] Добавляем вещь в обмен: (0.06 $) [industrial_grade]
+[ P90 | Sand Spray (Well-Worn) ] Добавляем вещь в обмен: (0.04 $) [consumer_grade]
+[ P90 | Elite Build (Battle-Scarred) ] Добавляем вещь в обмен: (0.07 $) [mil-spec_grade]
+[ M4A1-S | Boreal Forest (Field-Tested) ] Добавляем вещь в обмен: (0.09 $) [industrial_grade]
+[ P90 | Elite Build (Field-Tested) ] Добавляем вещь в обмен: (0.08 $) [mil-spec_grade]
+[ MAG-7 | Metallic DDPAT (Factory New) ] Добавляем вещь в обмен: (0.06 $) [industrial_grade]
+[ MP9 | Deadly Poison (Battle-Scarred) ] Добавляем вещь в обмен: (0.09 $) [mil-spec_grade]
+[ XM1014 | CaliCamo (Factory New) ] Добавляем вещь в обмен: (0.06 $) [industrial_grade]
+[ 23:22:39 ] Отправляем комиссию вещами
+[ 23:22:39 ] Собранно комиссии: 0.08
+ Полная сумма комиссии: 0.08070000000000001$ 
+ Поинты раунда: 2.7970000000000006
+[ 23:22:39 ] Отправляем победителя в БД
+[ 23:22:39 ] Отправляем обмен победителю:
+                  partnerAccountId: 215149825
+                  accessToken: 4ZsSPbLd
+                  itemsFromMe: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+                  itemsFromThem: 
+Установка чемпиона
+TRUE [object Object]
+[ 23:22:39 ] Получаем новые ставки. Конец раунда.  
+[ 23:22:42 ] Получаем новые ставки. Конец раунда.  
+[ 23:22:42 ] Комиссия отправлена.
+[ 23:22:42 ] Приз отправлен:[object Object]
+[ 23:22:45 ] Получаем новые ставки. Конец раунда.  
+[ 23:22:48 ] Получаем новые ставки. Конец раунда.  
+[ 23:22:51 ] Получаем новые ставки. Конец раунда.  
+[ 23:22:54 ] Получаем новые ставки. Конец раунда.  
+[ 23:22:57 ] Получаем новые ставки. Конец раунда.  
+[ 23:22:57 ] Начинаем раунд №607
+[ 23:24:07 ] Получаем новые ставки. Ошибка стима: Error: connect ETIMEDOUT
+[ 23:30:07 ] Новая ставка: 812757023 (76561198171835915)
+[ 23:30:07 ] Начинаем обрабатывать ставку: 812757023 (76561198171835915)
+[ 23:30:07 ] Проверяем вещи в ставке: 812757023 (76561198171835915)
+[ 23:30:07 ] Все ОК. Ожидаем подтверждения ставки: 812757023 (76561198171835915)
+[ 23:30:16 ] Обрабатываем ставку: 812757023 (76561198171835915)
+[ 23:30:16 ] Статус ставки: 1 (812757023 (76561198171835915))
+[ 23:30:16 ] Предмет: 4039969338
+[ 23:30:16 ] Предмет: 4039969415
+[ 23:30:16 ] Сумма ставки меньше минимальной: 812757023 (76561198171835915)
+76561198171835915 bot_price_too_small
+[ 23:30:16 ] Ставка отклоняется по причине: bot_price_too_small (812757023 (76561198171835915)
+[ 23:43:50 ] Новая ставка: 812789577 (76561198167248259)
+[ 23:43:50 ] Начинаем обрабатывать ставку: 812789577 (76561198167248259)
+[ 23:43:50 ] Проверяем вещи в ставке: 812789577 (76561198167248259)
+[ 23:43:50 ] Все ОК. Ожидаем подтверждения ставки: 812789577 (76561198167248259)
+[ 23:43:56 ] Обрабатываем ставку: 812789577 (76561198167248259)
+[ 23:43:56 ] Статус ставки: 1 (812789577 (76561198167248259))
+[ 23:43:56 ] Предмет: 4040359645
+[ 23:43:56 ] Предмет: 4040359564
+[ 23:43:56 ] Предмет: 3980381820
+[ 23:43:56 ] Предмет: 3983066214
+[ 23:43:56 ] Предмет: 3983066096
+[ 23:43:56 ] Предмет: 3983066062
+[ 23:43:56 ] Предмет: 3980381435
+[ 23:43:56 ] Предмет: 3980381457
+[ 23:43:56 ] Предмет: 3980381390
+[ 23:43:56 ] Предмет: 3980370768
+[ 23:43:56 ] Предмет: 3980370731
+[ 23:43:56 ] Предмет: 3980370674
+[ 23:43:56 ] Предмет: 3980370644
+[ 23:43:56 ] Предмет: 3980370704
+[ 23:43:56 ] Принимаем обмен: 812789577 (76561198167248259)
+[ 23:44:09 ] Ответ: null
+[ 23:44:09 ] Ставка принята: 812789577 (76561198167248259)
+[ 23:44:09 ] пользователь в игре: 76561198167248259
+[ 23:49:49 ] Новая ставка: 812802016 (76561198149779922)
+[ 23:49:49 ] Начинаем обрабатывать ставку: 812802016 (76561198149779922)
+[ 23:49:49 ] Проверяем вещи в ставке: 812802016 (76561198149779922)
+[ 23:49:51 ] Все ОК. Ожидаем подтверждения ставки: 812802016 (76561198149779922)
+[ 23:50:00 ] Обрабатываем ставку: 812802016 (76561198149779922)
+[ 23:50:00 ] Статус ставки: 1 (812802016 (76561198149779922))
+[ 23:50:00 ] Предмет: 4040685353
+[ 23:50:00 ] Принимаем обмен: 812802016 (76561198149779922)
+[ 23:50:04 ] Ответ: null
+[ 23:50:04 ] Ставка принята: 812802016 (76561198149779922)
+[ 23:50:04 ] пользователь в игре: 76561198149779922
+[ 23:52:14 ]  
+Оферов в очереди: 0 
+ Оферов обрабатываеться 0
+[ 23:52:15 ] Получаем новые ставки. Конец раунда.  
+[ 23:52:18 ] Получаем новые ставки. Конец раунда.  
+[ 23:52:19 ] Закончили раунд
+		USER: {"nickname":"CSGOFairPlay.com - JACKPOT","steamid":"76561198167248259","avatar":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/6d/6daf0f288e50b2765386d1d9610613e7dcf7d2cd_full.jpg","money":0.6200000000000001,"points":0.6820000000000002}
+[ 23:52:19 ] Пользователь: 76561198167248259
+ Шанс: 51.20120120120121
+ Поинты пользователя: 0.6820000000000002
+		USER: {"nickname":"Maximka","steamid":"76561198149779922","avatar":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/98/9851a2df81b4de1c1a1fec6feb486f97c8feb7ec_full.jpg","money":0.65,"points":0.65}
+[ 23:52:19 ] Пользователь: 76561198149779922
+ Шанс: 48.79879879879879
+ Поинты пользователя: 0.65
+[ 23:52:19 ]  
+Оферов в очереди: 0 
+ Оферов обрабатываеться 0
+[ 23:52:19 ]  Обработка результата. Победитель: CSGOFairPlay.com - JACKPOT (76561198167248259)
+[ 23:52:19 ]  Вычесляем процент коммиссии...
+[ 23:52:19 ] Нашли наш домен в нике и игрок сделал первую ставку, коммиссия 3%
+[ 23:52:19 ] Сумма комиссии: 0.0381$
+[ 23:52:19 ] Берем комиссию с вещей
+[ 23:52:21 ] Получаем новые ставки. Конец раунда.  
+[ 23:52:21 ] Загрузили инвентарь бота для выдачи приза победителю
+[ G3SG1 | VariCamo (Field-Tested) ] Добавляем вещь в обмен: (0.05 $) [industrial_grade]
+[ Sawed-Off | Snake Camo (Field-Tested) ] Добавляем вещь в обмен: (0.05 $) [industrial_grade]
+[ CZ75-Auto | Army Sheen (Field-Tested) ] Добавляем вещь в обмен: (0.09 $) [consumer_grade]
+[ FAMAS | Colony (Field-Tested) ] Добавляем вещь в обмен: (0.03 $) [consumer_grade]
+[ Five-SeveN | Forest Night (Field-Tested) ] Добавляем вещь в обмен: (0.03 $) [consumer_grade]
+[ USP-S | Forest Leaves (Battle-Scarred) ] Добавляем вещь в обмен: (0.06 $) [industrial_grade]
+[ UMP-45 | Gunsmoke (Battle-Scarred) ] Добавляем вещь в обмен: (0.05 $) [industrial_grade]
+[ PP-Bizon | Urban Dashed (Battle-Scarred) ] Добавляем вещь в обмен: (0.03 $) [consumer_grade]
+[ XM1014 | CaliCamo (Field-Tested) ] Добавляем вещь в обмен: (0.05 $) [industrial_grade]
+[ Nova | Predator (Well-Worn) ] Добавляем вещь в обмен: (0.03 $) [consumer_grade]
+[ M249 | Contrast Spray (Field-Tested) ] Добавляем вещь в обмен: (0.04 $) [consumer_grade]
+[ FAMAS | Colony (Field-Tested) ] Добавляем вещь в обмен: (0.03 $) [consumer_grade]
+[ XM1014 | Blue Steel (Well-Worn) ] Добавляем вещь в обмен: (0.05 $) [industrial_grade]
+[ StatTrak™ P90 | Elite Build (Field-Tested) ] Добавляем вещь в обмен: (0.65 $) [mil-spec_grade_stattrak]
+[ 23:52:21 ] Отправляем комиссию вещами
+[ 23:52:21 ] Собранно комиссии: 0.03
+ Полная сумма комиссии: 0.0381$ 
+ Поинты раунда: 1.3320000000000003
+[ 23:52:21 ] Отправляем победителя в БД
+[ 23:52:21 ] Отправляем обмен победителю:
+                  partnerAccountId: 206982531
+                  accessToken: V89GO6oX
+                  itemsFromMe: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+                  itemsFromThem: 
+Установка чемпиона
+TRUE [object Object]
+[ 23:52:24 ] Получаем новые ставки. Конец раунда.  
+[ 23:52:25 ] Комиссия отправлена.
+[ 23:52:25 ] Приз отправлен:[object Object]
+[ 23:52:27 ] Получаем новые ставки. Конец раунда.  
+[ 23:52:30 ] Получаем новые ставки. Конец раунда.  
+[ 23:52:33 ] Получаем новые ставки. Конец раунда.  
+[ 23:52:36 ] Получаем новые ставки. Конец раунда.  
+[ 23:52:39 ] Получаем новые ставки. Конец раунда.  
+[ 23:52:40 ] Начинаем раунд №608
+[ 00:03:26 ] Новая ставка: 812834831 (76561198167248259)
+[ 00:03:26 ] Начинаем обрабатывать ставку: 812834831 (76561198167248259)
+[ 00:03:26 ] Проверяем вещи в ставке: 812834831 (76561198167248259)
+[ 00:03:26 ] Все ОК. Ожидаем подтверждения ставки: 812834831 (76561198167248259)
+[ 00:03:31 ] Обрабатываем ставку: 812834831 (76561198167248259)
+[ 00:03:31 ] Статус ставки: 1 (812834831 (76561198167248259))
+[ 00:03:31 ] Предмет: 4041026638
+[ 00:03:31 ] Предмет: 4041011050
+[ 00:03:31 ] Предмет: 4041010964
+[ 00:03:31 ] Предмет: 4041010618
+[ 00:03:31 ] Предмет: 4041010793
+[ 00:03:31 ] Предмет: 4041010883
+[ 00:03:31 ] Предмет: 4041010920
+[ 00:03:31 ] Предмет: 4041010538
+[ 00:03:31 ] Предмет: 4041010486
+[ 00:03:31 ] Предмет: 4041010441
+[ 00:03:31 ] Предмет: 4041010406
+[ 00:03:31 ] Предмет: 4041010326
+[ 00:03:31 ] Предмет: 4041010363
+[ 00:03:31 ] Предмет: 4041010291
+[ 00:03:31 ] Принимаем обмен: 812834831 (76561198167248259)
+[ 00:03:43 ] Ответ: null
+[ 00:03:43 ] Ставка принята: 812834831 (76561198167248259)
+[ 00:03:43 ] пользователь в игре: 76561198167248259
+[ 00:05:41 ] Новая ставка: 812839704 (76561198167248259)
+[ 00:05:41 ] Начинаем обрабатывать ставку: 812839704 (76561198167248259)
+[ 00:05:41 ] Проверяем вещи в ставке: 812839704 (76561198167248259)
+[ 00:05:41 ] Все ОК. Ожидаем подтверждения ставки: 812839704 (76561198167248259)
+[ 00:05:53 ] Обрабатываем ставку: 812839704 (76561198167248259)
+[ 00:05:53 ] Статус ставки: 1 (812839704 (76561198167248259))
+[ 00:05:53 ] Предмет: 4041011096
+[ 00:05:53 ] Принимаем обмен: 812839704 (76561198167248259)
+[ 00:05:57 ] Ответ: null
+[ 00:05:57 ] Ставка принята: 812839704 (76561198167248259)
+[ 00:05:57 ] пользователь в игре: 76561198167248259
+[ 00:11:29 ] Новая ставка: 812852248 (76561198200991586)
+[ 00:11:29 ] Начинаем обрабатывать ставку: 812852248 (76561198200991586)
+[ 00:11:29 ] Проверяем вещи в ставке: 812852248 (76561198200991586)
+[ 00:11:29 ] Новая ставка: 812840240 (76561198175415553)
+[ 00:11:29 ] Начинаем обрабатывать ставку: 812840240 (76561198175415553)
+[ 00:11:29 ] Проверяем вещи в ставке: 812840240 (76561198175415553)
+[ 00:11:29 ] Все ОК. Ожидаем подтверждения ставки: 812852248 (76561198200991586)
+[ 00:11:29 ] Все ОК. Ожидаем подтверждения ставки: 812840240 (76561198175415553)
+[ 00:11:33 ] Обрабатываем ставку: 812840240 (76561198175415553)
+[ 00:11:33 ] Статус ставки: 1 (812840240 (76561198175415553))
+[ 00:11:33 ] Предмет: 4040695351
+[ 00:11:33 ] Предмет: 4040303567
+[ 00:11:33 ] Предмет: 4040303517
+[ 00:11:33 ] Предмет: 4040303444
+[ 00:11:33 ] Предмет: 4040303139
+[ 00:11:33 ] Предмет: 4040303200
+[ 00:11:33 ] Предмет: 4040303277
+[ 00:11:33 ] Предмет: 4040303370
+[ 00:11:33 ] Предмет: 4040303065
+[ 00:11:33 ] Предмет: 4040302987
+[ 00:11:33 ] Предмет: 4040302930
+[ 00:11:33 ] Предмет: 4040302850
+[ 00:11:33 ] Предмет: 4040302571
+[ 00:11:33 ] Предмет: 4040302648
+[ 00:11:33 ] Предмет: 4040302720
+[ 00:11:33 ] Предмет: 4040302791
+[ 00:11:33 ] Предмет: 4040302522
+[ 00:11:33 ] Предмет: 4040302420
+[ 00:11:33 ] Предмет: 4040302381
+[ 00:11:33 ] Предмет: 4040302299
+[ 00:11:33 ] Принимаем обмен: 812840240 (76561198175415553)
+[ 00:11:37 ] Обрабатываем ставку: 812852248 (76561198200991586)
+[ 00:11:37 ] Статус ставки: 1 (812852248 (76561198200991586))
+[ 00:11:37 ] Предмет: 3935030604
+[ 00:11:37 ] Предмет: 3935030433
+[ 00:11:37 ] Предмет: 3935029981
+[ 00:11:37 ] Принимаем обмен: 812852248 (76561198200991586)
+[ 00:11:47 ] Ответ: null
+[ 00:11:47 ] Ставка принята: 812840240 (76561198175415553)
+[ 00:11:47 ] пользователь в игре: 76561198175415553
+[ 00:11:51 ] Ответ: null
+[ 00:11:51 ] Ставка принята: 812852248 (76561198200991586)
+[ 00:11:51 ] пользователь в игре: 76561198200991586
+[ 00:13:58 ]  
+Оферов в очереди: 0 
+ Оферов обрабатываеться 0
+[ 00:14:01 ] Получаем новые ставки. Конец раунда.  
+[ 00:14:03 ] Закончили раунд
+		USER: {"nickname":"CSGOFairPlay.com - JACKPOT","steamid":"76561198167248259","avatar":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/6d/6daf0f288e50b2765386d1d9610613e7dcf7d2cd_full.jpg","money":1.27,"points":1.3970000000000002}
+[ 00:14:03 ] Пользователь: 76561198167248259
+ Шанс: 32.13710605014953
+ Поинты пользователя: 1.3970000000000002
+		USER: {"nickname":"teddy csgofairplay.com","steamid":"76561198175415553","avatar":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/67/678e0cbeaeb25e61fd9641ef4f3fff73ceedbba8_full.jpg","money":1.3400000000000003,"points":1.3400000000000003}
+[ 00:14:03 ] Пользователь: 76561198175415553
+ Шанс: 30.82585691281344
+ Поинты пользователя: 1.3400000000000003
+		USER: {"nickname":"Ricardo csgofairplay.com","steamid":"76561198200991586","avatar":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/f0/f05f06f0926136e45455b6b486d6b92cfa712082_full.jpg","money":1.6099999999999999,"points":1.6099999999999999}
+[ 00:14:03 ] Пользователь: 76561198200991586
+ Шанс: 37.03703703703703
+ Поинты пользователя: 1.6099999999999999
+[ 00:14:03 ]  
+Оферов в очереди: 0 
+ Оферов обрабатываеться 0
+[ 00:14:03 ]  Обработка результата. Победитель: Ricardo csgofairplay.com (76561198200991586)
+[ 00:14:03 ]  Вычесляем процент коммиссии...
+[ 00:14:03 ] Нашли наш домен в нике, комиссия на 5%
+[ 00:14:03 ] Сумма комиссии: 0.21100000000000005$
+[ 00:14:03 ] Берем комиссию с вещей
+[ 00:14:04 ] Получаем новые ставки. Конец раунда.  
+[ 00:14:07 ] Загрузили инвентарь бота для выдачи приза победителю
+[ USP-S | Forest Leaves (Battle-Scarred) ] Добавляем вещь в обмен: (0.06 $) [industrial_grade]
+[ UMP-45 | Gunsmoke (Battle-Scarred) ] Добавляем вещь в обмен: (0.05 $) [industrial_grade]
+[ Sawed-Off | Snake Camo (Field-Tested) ] Добавляем вещь в обмен: (0.05 $) [industrial_grade]
+[ PP-Bizon | Urban Dashed (Battle-Scarred) ] Добавляем вещь в обмен: (0.03 $) [consumer_grade]
+[ XM1014 | CaliCamo (Field-Tested) ] Добавляем вещь в обмен: (0.05 $) [industrial_grade]
+[ Nova | Predator (Well-Worn) ] Добавляем вещь в обмен: (0.03 $) [consumer_grade]
+[ XM1014 | Blue Steel (Well-Worn) ] Добавляем вещь в обмен: (0.05 $) [industrial_grade]
+[ FAMAS | Colony (Field-Tested) ] Добавляем вещь в обмен: (0.03 $) [consumer_grade]
+[ M249 | Contrast Spray (Field-Tested) ] Добавляем вещь в обмен: (0.04 $) [consumer_grade]
+[ Five-SeveN | Forest Night (Field-Tested) ] Добавляем вещь в обмен: (0.03 $) [consumer_grade]
+[ StatTrak™ P90 | Elite Build (Field-Tested) ] Добавляем вещь в обмен: (0.65 $) [mil-spec_grade_stattrak]
+[ Chroma Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ XM1014 | CaliCamo (Factory New) ] Добавляем вещь в обмен: (0.06 $) [industrial_grade]
+[ AK-47 | Safari Mesh (Field-Tested) ] Добавляем вещь в обмен: (0.06 $) [industrial_grade]
+[ MAG-7 | Metallic DDPAT (Factory New) ] Добавляем вещь в обмен: (0.06 $) [industrial_grade]
+[ MP9 | Deadly Poison (Battle-Scarred) ] Добавляем вещь в обмен: (0.09 $) [mil-spec_grade]
+[ P90 | Elite Build (Field-Tested) ] Добавляем вещь в обмен: (0.08 $) [mil-spec_grade]
+[ M4A1-S | Boreal Forest (Field-Tested) ] Добавляем вещь в обмен: (0.09 $) [industrial_grade]
+[ P90 | Elite Build (Battle-Scarred) ] Добавляем вещь в обмен: (0.07 $) [mil-spec_grade]
+[ P90 | Sand Spray (Well-Worn) ] Добавляем вещь в обмен: (0.04 $) [consumer_grade]
+[ UMP-45 | Riot (Minimal Wear) ] Добавляем вещь в обмен: (0.09 $) [mil-spec_grade]
+[ P90 | Sand Spray (Minimal Wear) ] Добавляем вещь в обмен: (0.04 $) [consumer_grade]
+[ Glock-18 | Wraiths (Field-Tested) ] Добавляем вещь в обмен: (0.09 $) [mil-spec_grade]
+[ AUG | Contractor (Field-Tested) ] Добавляем вещь в обмен: (0.03 $) [consumer_grade]
+[ P2000 | Grassland (Field-Tested) ] Добавляем вещь в обмен: (0.24 $) [industrial_grade]
+[ UMP-45 | Urban DDPAT (Field-Tested) ] Добавляем вещь в обмен: (0.03 $) [consumer_grade]
+[ MAG-7 | Metallic DDPAT (Factory New) ] Добавляем вещь в обмен: (0.06 $) [industrial_grade]
+[ MAG-7 | Heaven Guard (Minimal Wear) ] Добавляем вещь в обмен: (0.07 $) [mil-spec_grade]
+[ PP-Bizon | Urban Dashed (Battle-Scarred) ] Добавляем вещь в обмен: (0.03 $) [consumer_grade]
+[ SG 553 | Waves Perforated (Field-Tested) ] Добавляем вещь в обмен: (0.03 $) [consumer_grade]
+[ Falchion Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ StatTrak™ P2000 | Pulse (Battle-Scarred) ] Добавляем вещь в обмен: (0.3 $) [mil-spec_grade_stattrak]
+[ AUG | Condemned (Field-Tested) ] Добавляем вещь в обмен: (0.05 $) [industrial_grade]
+[ AWP | Worm God (Factory New) ] Добавляем вещь в обмен: (1.26 $) [restricted]
+[ 00:14:07 ] Отправляем комиссию вещами
+[ 00:14:07 ] Собранно комиссии: 0.19999999999999998
+ Полная сумма комиссии: 0.21100000000000005$ 
+ Поинты раунда: 4.347
+[ 00:14:07 ] Отправляем победителя в БД
+[ 00:14:07 ] Отправляем обмен победителю:
+                  partnerAccountId: 240725858
+                  accessToken: tLuzU_MB
+                  itemsFromMe: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+                  itemsFromThem: 
+Установка чемпиона
+TRUE [object Object]
+[ 00:14:07 ] Получаем новые ставки. Конец раунда.  
+[ 00:14:07 ] Ошибка отправки комиссии:Error: 503 (комиссия осталась на балансе бота.)
+[ 00:14:09 ] Приз отправлен:[object Object]
+[ 00:14:10 ] Получаем новые ставки. Конец раунда.  
+[ 00:14:13 ] Получаем новые ставки. Конец раунда.  
+[ 00:14:16 ] Получаем новые ставки. Конец раунда.  
+[ 00:14:19 ] Получаем новые ставки. Конец раунда.  
+[ 00:14:22 ] Получаем новые ставки. Конец раунда.  
+[ 00:14:24 ] Начинаем раунд №609
+[ 00:14:25 ] Обрабатываем фишки
+[ 00:14:25 ] Фишка: 35
+[ 00:14:25 ] пользователь в игре: 76561198175415553
+[ 00:16:02 ] Новая ставка: 812861884 (76561198175415553)
+[ 00:16:02 ] Начинаем обрабатывать ставку: 812861884 (76561198175415553)
+[ 00:16:02 ] Проверяем вещи в ставке: 812861884 (76561198175415553)
+[ 00:16:02 ] Все ОК. Ожидаем подтверждения ставки: 812861884 (76561198175415553)
+[ 00:16:13 ] Обрабатываем ставку: 812861884 (76561198175415553)
+[ 00:16:13 ] Статус ставки: 1 (812861884 (76561198175415553))
+[ 00:16:13 ] Предмет: 4040302145
+[ 00:16:13 ] Предмет: 4040302226
+[ 00:16:13 ] Предмет: 4040301996
+[ 00:16:13 ] Предмет: 4039351387
+[ 00:16:13 ] Предмет: 4039352090
+[ 00:16:13 ] Предмет: 4039352005
+[ 00:16:13 ] Предмет: 4040301934
+[ 00:16:13 ] Предмет: 4040301854
+[ 00:16:13 ] Предмет: 4040302080
+[ 00:16:13 ] Предмет: 4040302037
+[ 00:16:13 ] Предмет: 4040301780
+[ 00:16:13 ] Предмет: 4039351494
+[ 00:16:13 ] Предмет: 4039351621
+[ 00:16:13 ] Предмет: 4039351216
+[ 00:16:13 ] Предмет: 4039351305
+[ 00:16:13 ] Предмет: 4039351091
+[ 00:16:13 ] Предмет: 4039350988
+[ 00:16:13 ] Предмет: 4039350866
+[ 00:16:13 ] Предмет: 4030234463
+[ 00:16:13 ] Принимаем обмен: 812861884 (76561198175415553)
+[ 00:16:27 ] Ответ: null
+[ 00:16:27 ] Ставка принята: 812861884 (76561198175415553)
+[ 00:16:27 ] пользователь в игре: 76561198175415553
+[ 00:17:11 ] Новая ставка: 812864240 (76561198200991586)
+[ 00:17:11 ] Начинаем обрабатывать ставку: 812864240 (76561198200991586)
+[ 00:17:11 ] Проверяем вещи в ставке: 812864240 (76561198200991586)
+[ 00:17:11 ] Новая ставка: 812862412 (76561198167248259)
+[ 00:17:11 ] Начинаем обрабатывать ставку: 812862412 (76561198167248259)
+[ 00:17:11 ] Проверяем вещи в ставке: 812862412 (76561198167248259)
+[ 00:17:11 ] Все ОК. Ожидаем подтверждения ставки: 812862412 (76561198167248259)
+[ 00:17:11 ] Все ОК. Ожидаем подтверждения ставки: 812864240 (76561198200991586)
+[ 00:17:17 ] Обрабатываем ставку: 812864240 (76561198200991586)
+[ 00:17:17 ] Статус ставки: 1 (812864240 (76561198200991586))
+[ 00:17:17 ] Предмет: 3938148746
+[ 00:17:17 ] Предмет: 3938148721
+[ 00:17:17 ] Принимаем обмен: 812864240 (76561198200991586)
+[ 00:17:22 ] Ответ: null
+[ 00:17:22 ] Ставка принята: 812864240 (76561198200991586)
+[ 00:17:22 ] пользователь в игре: 76561198200991586
+[ 00:17:23 ] Обрабатываем ставку: 812862412 (76561198167248259)
+[ 00:17:23 ] Статус ставки: 1 (812862412 (76561198167248259))
+[ 00:17:23 ] Предмет: 4034463568
+[ 00:17:23 ] Принимаем обмен: 812862412 (76561198167248259)
+[ 00:17:27 ] Ответ: null
+[ 00:17:27 ] Ставка принята: 812862412 (76561198167248259)
+[ 00:17:27 ] пользователь в игре: 76561198167248259
+[ 00:19:33 ]  
+Оферов в очереди: 0 
+ Оферов обрабатываеться 0
+[ 00:19:34 ] Получаем новые ставки. Конец раунда.  
+[ 00:19:37 ] Получаем новые ставки. Конец раунда.  
+[ 00:19:38 ] Закончили раунд
+		USER: {"nickname":"teddy csgofairplay.com","steamid":"76561198175415553","avatar":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/67/678e0cbeaeb25e61fd9641ef4f3fff73ceedbba8_full.jpg","money":1.78,"points":1.9580000000000002}
+[ 00:19:38 ] Пользователь: 76561198175415553
+ Шанс: 54.268292682926834
+ Поинты пользователя: 1.9580000000000002
+		USER: {"nickname":"Ricardo csgofairplay.com","steamid":"76561198200991586","avatar":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/f0/f05f06f0926136e45455b6b486d6b92cfa712082_full.jpg","money":1.05,"points":1.05}
+[ 00:19:38 ] Пользователь: 76561198200991586
+ Шанс: 29.1019955654102
+ Поинты пользователя: 1.05
+		USER: {"nickname":"CSGOFairPlay.com - JACKPOT","steamid":"76561198167248259","avatar":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/6d/6daf0f288e50b2765386d1d9610613e7dcf7d2cd_full.jpg","money":0.6,"points":0.6}
+[ 00:19:38 ] Пользователь: 76561198167248259
+ Шанс: 16.62971175166297
+ Поинты пользователя: 0.6
+[ 00:19:38 ]  
+Оферов в очереди: 0 
+ Оферов обрабатываеться 0
+[ 00:19:38 ]  Обработка результата. Победитель: teddy csgofairplay.com (76561198175415553)
+[ 00:19:38 ]  Вычесляем процент коммиссии...
+[ 00:19:38 ] Нашли наш домен в нике и игрок сделал первую ставку, коммиссия 3%
+[ 00:19:38 ] Сумма комиссии: 0.1029$
+[ 00:19:38 ] Берем комиссию с вещей
+[ 00:19:40 ] Получаем новые ставки. Конец раунда.  
+[ 00:19:40 ] Загрузили инвентарь бота для выдачи приза победителю
+[ Falchion Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Operation Breakout Weapon Case ] Добавляем вещь в обмен: (0.03 $) [base_grade]
+[ Operation Phoenix Weapon Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Operation Phoenix Weapon Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Chroma Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Chroma Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Falchion Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Falchion Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Operation Breakout Weapon Case ] Добавляем вещь в обмен: (0.03 $) [base_grade]
+[ Operation Breakout Weapon Case ] Добавляем вещь в обмен: (0.03 $) [base_grade]
+[ Chroma 2 Case ] Добавляем вещь в обмен: (0.05 $) [base_grade]
+[ Operation Phoenix Weapon Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Operation Phoenix Weapon Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Operation Phoenix Weapon Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Operation Phoenix Weapon Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Operation Phoenix Weapon Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Negev | Man-o'-war (Minimal Wear) ] Добавляем вещь в обмен: (0.08 $) [mil-spec_grade]
+[ Souvenir MAC-10 | Palm (Battle-Scarred) ] Добавляем вещь в обмен: (0.28 $) [industrial_grade]
+[ Sticker | Luminosity Gaming (Foil) | Cologne 2015 ] Добавляем вещь в обмен: (0.77 $) [exotic]
+[ StatTrak™ MP7 | Urban Hazard (Factory New) ] Добавляем вещь в обмен: (0.6 $) [mil-spec_grade_stattrak]
+[ 00:19:40 ] Отправляем комиссию вещами
+[ 00:19:40 ] Собранно комиссии: 0.08
+ Полная сумма комиссии: 0.1029$ 
+ Поинты раунда: 3.608
+[ 00:19:40 ] Отправляем победителя в БД
+[ 00:19:40 ] Отправляем обмен победителю:
+                  partnerAccountId: 215149825
+                  accessToken: 4ZsSPbLd
+                  itemsFromMe: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+                  itemsFromThem: 
+Установка чемпиона
+TRUE [object Object]
+[ 00:19:43 ] Получаем новые ставки. Конец раунда.  
+[ 00:19:43 ] Приз отправлен:[object Object]
+[ 00:19:45 ] Комиссия отправлена.
+[ 00:19:46 ] Получаем новые ставки. Конец раунда.  
+[ 00:19:49 ] Получаем новые ставки. Конец раунда.  
+[ 00:19:52 ] Получаем новые ставки. Конец раунда.  
+[ 00:19:55 ] Получаем новые ставки. Конец раунда.  
+[ 00:19:58 ] Получаем новые ставки. Конец раунда.  
+[ 00:19:58 ] Начинаем раунд №610
+[ 00:22:54 ] Новая ставка: 812876615 (76561198167248259)
+[ 00:22:54 ] Начинаем обрабатывать ставку: 812876615 (76561198167248259)
+[ 00:22:54 ] Проверяем вещи в ставке: 812876615 (76561198167248259)
+[ 00:22:54 ] Все ОК. Ожидаем подтверждения ставки: 812876615 (76561198167248259)
+[ 00:23:07 ] Обрабатываем ставку: 812876615 (76561198167248259)
+[ 00:23:07 ] Статус ставки: 1 (812876615 (76561198167248259))
+[ 00:23:07 ] Предмет: 4034463468
+[ 00:23:07 ] Предмет: 4002965597
+[ 00:23:07 ] Предмет: 4000961363
+[ 00:23:07 ] Предмет: 4000961411
+[ 00:23:07 ] Предмет: 4000961442
+[ 00:23:07 ] Предмет: 4000961124
+[ 00:23:07 ] Предмет: 4000961169
+[ 00:23:07 ] Предмет: 4000961197
+[ 00:23:07 ] Принимаем обмен: 812876615 (76561198167248259)
+[ 00:23:18 ] Ответ: null
+[ 00:23:18 ] Ставка принята: 812876615 (76561198167248259)
+[ 00:23:18 ] пользователь в игре: 76561198167248259
+[ 00:25:14 ] Новая ставка: 812881679 (76561198200991586)
+[ 00:25:14 ] Начинаем обрабатывать ставку: 812881679 (76561198200991586)
+[ 00:25:14 ] Проверяем вещи в ставке: 812881679 (76561198200991586)
+[ 00:25:14 ] Новая ставка: 812877356 (76561198175415553)
+[ 00:25:14 ] Начинаем обрабатывать ставку: 812877356 (76561198175415553)
+[ 00:25:14 ] Проверяем вещи в ставке: 812877356 (76561198175415553)
+[ 00:25:14 ] Все ОК. Ожидаем подтверждения ставки: 812881679 (76561198200991586)
+[ 00:25:14 ] Все ОК. Ожидаем подтверждения ставки: 812877356 (76561198175415553)
+[ 00:25:33 ] Обрабатываем ставку: 812877356 (76561198175415553)
+[ 00:25:33 ] Статус ставки: 1 (812877356 (76561198175415553))
+[ 00:25:33 ] Предмет: 4041330807
+[ 00:25:33 ] Предмет: 4041330725
+[ 00:25:33 ] Предмет: 4041330646
+[ 00:25:33 ] Предмет: 4041330559
+[ 00:25:33 ] Предмет: 4041330871
+[ 00:25:33 ] Предмет: 4041330959
+[ 00:25:33 ] Предмет: 4041331007
+[ 00:25:33 ] Предмет: 4041330485
+[ 00:25:33 ] Предмет: 4041330443
+[ 00:25:33 ] Предмет: 4041330362
+[ 00:25:33 ] Предмет: 4041330312
+[ 00:25:33 ] Предмет: 4041330115
+[ 00:25:33 ] Предмет: 4041330164
+[ 00:25:33 ] Предмет: 4041330205
+[ 00:25:33 ] Предмет: 4041330259
+[ 00:25:33 ] Предмет: 4041330049
+[ 00:25:33 ] Предмет: 4041329971
+[ 00:25:33 ] Предмет: 4041329911
+[ 00:25:33 ] Принимаем обмен: 812877356 (76561198175415553)
+[ 00:25:35 ] Обрабатываем ставку: 812881679 (76561198200991586)
+[ 00:25:35 ] Статус ставки: 1 (812881679 (76561198200991586))
+[ 00:25:35 ] Предмет: 4041335981
+[ 00:25:35 ] Предмет: 4041335907
+[ 00:25:35 ] Предмет: 4041335827
+[ 00:25:35 ] Предмет: 4041322778
+[ 00:25:35 ] Предмет: 4041322800
+[ 00:25:35 ] Предмет: 4041322543
+[ 00:25:35 ] Предмет: 4041322476
+[ 00:25:35 ] Предмет: 4041322308
+[ 00:25:35 ] Предмет: 4041322343
+[ 00:25:35 ] Предмет: 4041322396
+[ 00:25:35 ] Предмет: 4041322701
+[ 00:25:35 ] Предмет: 4041322739
+[ 00:25:35 ] Предмет: 4041322436
+[ 00:25:35 ] Предмет: 4041322894
+[ 00:25:35 ] Предмет: 4041322945
+[ 00:25:35 ] Принимаем обмен: 812881679 (76561198200991586)
+[ 00:25:47 ] Ответ: null
+[ 00:25:47 ] Ставка принята: 812877356 (76561198175415553)
+[ 00:25:47 ] пользователь в игре: 76561198175415553
+[ 00:25:58 ] Получаем новые ставки. Ошибка стима: Error: 500
+[ 00:25:58 ] Ответ: null
+[ 00:25:58 ] Ставка принята: 812881679 (76561198200991586)
+[ 00:25:58 ] пользователь в игре: 76561198200991586
+[ 00:27:57 ]  
+Оферов в очереди: 0 
+ Оферов обрабатываеться 0
+[ 00:27:58 ] Получаем новые ставки. Конец раунда.  
+[ 00:28:01 ] Получаем новые ставки. Конец раунда.  
+[ 00:28:02 ] Закончили раунд
+		USER: {"nickname":"CSGOFairPlay.com - JACKPOT","steamid":"76561198167248259","avatar":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/6d/6daf0f288e50b2765386d1d9610613e7dcf7d2cd_full.jpg","money":0.61,"points":0.671}
+[ 00:28:02 ] Пользователь: 76561198167248259
+ Шанс: 18.949449308105056
+ Поинты пользователя: 0.671
+		USER: {"nickname":"teddy csgofairplay.com","steamid":"76561198175415553","avatar":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/67/678e0cbeaeb25e61fd9641ef4f3fff73ceedbba8_full.jpg","money":1.7200000000000004,"points":1.7200000000000004}
+[ 00:28:02 ] Пользователь: 76561198175415553
+ Шанс: 48.57384919514262
+ Поинты пользователя: 1.7200000000000004
+		USER: {"nickname":"Ricardo csgofairplay.com","steamid":"76561198200991586","avatar":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/f0/f05f06f0926136e45455b6b486d6b92cfa712082_full.jpg","money":1.15,"points":1.15}
+[ 00:28:02 ] Пользователь: 76561198200991586
+ Шанс: 32.47670149675233
+ Поинты пользователя: 1.15
+[ 00:28:02 ]  
+Оферов в очереди: 0 
+ Оферов обрабатываеться 0
+[ 00:28:02 ]  Обработка результата. Победитель: teddy csgofairplay.com (76561198175415553)
+[ 00:28:02 ]  Вычесляем процент коммиссии...
+[ 00:28:02 ] Нашли наш домен в нике, комиссия на 5%
+[ 00:28:02 ] Сумма комиссии: 0.17400000000000004$
+[ 00:28:02 ] Берем комиссию с вещей
+[ 00:28:04 ] Получаем новые ставки. Конец раунда.  
+[ 00:28:05 ] Загрузили инвентарь бота для выдачи приза победителю
+[ P90 | Elite Build (Field-Tested) ] Добавляем вещь в обмен: (0.08 $) [mil-spec_grade]
+[ USP-S | Torque (Minimal Wear) ] Добавляем вещь в обмен: (0.18 $) [mil-spec_grade]
+[ XM1014 | CaliCamo (Factory New) ] Добавляем вещь в обмен: (0.06 $) [industrial_grade]
+[ P90 | Elite Build (Field-Tested) ] Добавляем вещь в обмен: (0.08 $) [mil-spec_grade]
+[ Glock-18 | Death Rattle (Field-Tested) ] Добавляем вещь в обмен: (0.05 $) [industrial_grade]
+[ Operation Phoenix Weapon Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Operation Phoenix Weapon Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Falchion Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Falchion Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Negev | Man-o'-war (Minimal Wear) ] Добавляем вещь в обмен: (0.08 $) [mil-spec_grade]
+[ Sticker | Luminosity Gaming (Foil) | Cologne 2015 ] Добавляем вещь в обмен: (0.77 $) [exotic]
+[ Souvenir MAC-10 | Palm (Battle-Scarred) ] Добавляем вещь в обмен: (0.28 $) [industrial_grade]
+[ Falchion Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Operation Phoenix Weapon Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Chroma Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Chroma Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Operation Phoenix Weapon Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Operation Phoenix Weapon Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Operation Phoenix Weapon Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Operation Phoenix Weapon Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Chroma 2 Case ] Добавляем вещь в обмен: (0.05 $) [base_grade]
+[ Operation Breakout Weapon Case ] Добавляем вещь в обмен: (0.03 $) [base_grade]
+[ Operation Breakout Weapon Case ] Добавляем вещь в обмен: (0.03 $) [base_grade]
+[ Chroma Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Chroma Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ Chroma Case ] Добавляем вещь в обмен: (0.04 $) [base_grade]
+[ AK-47 | Safari Mesh (Field-Tested) ] Добавляем вещь в обмен: (0.06 $) [industrial_grade]
+[ XM1014 | CaliCamo (Factory New) ] Добавляем вещь в обмен: (0.06 $) [industrial_grade]
+[ M4A1-S | Boreal Forest (Field-Tested) ] Добавляем вещь в обмен: (0.09 $) [industrial_grade]
+[ P90 | Elite Build (Field-Tested) ] Добавляем вещь в обмен: (0.08 $) [mil-spec_grade]
+[ P90 | Sand Spray (Minimal Wear) ] Добавляем вещь в обмен: (0.04 $) [consumer_grade]
+[ UMP-45 | Riot (Minimal Wear) ] Добавляем вещь в обмен: (0.09 $) [mil-spec_grade]
+[ P90 | Sand Spray (Well-Worn) ] Добавляем вещь в обмен: (0.04 $) [consumer_grade]
+[ P90 | Elite Build (Battle-Scarred) ] Добавляем вещь в обмен: (0.07 $) [mil-spec_grade]
+[ MAG-7 | Metallic DDPAT (Factory New) ] Добавляем вещь в обмен: (0.06 $) [industrial_grade]
+[ MP9 | Deadly Poison (Battle-Scarred) ] Добавляем вещь в обмен: (0.09 $) [mil-spec_grade]
+[ AUG | Condemned (Field-Tested) ] Добавляем вещь в обмен: (0.05 $) [industrial_grade]
+[ StatTrak™ P2000 | Pulse (Battle-Scarred) ] Добавляем вещь в обмен: (0.3 $) [mil-spec_grade_stattrak]
+[ 00:28:05 ] Отправляем комиссию вещами
+[ 00:28:05 ] Собранно комиссии: 0.16
+ Полная сумма комиссии: 0.17400000000000004$ 
+ Поинты раунда: 3.5410000000000004
+[ 00:28:05 ] Отправляем победителя в БД
+[ 00:28:05 ] Отправляем обмен победителю:
+                  partnerAccountId: 215149825
+                  accessToken: 4ZsSPbLd
+                  itemsFromMe: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+                  itemsFromThem: 
+Установка чемпиона
+TRUE [object Object]
+[ 00:28:07 ] Получаем новые ставки. Конец раунда.  
+[ 00:28:07 ] Комиссия отправлена.
+[ 00:28:07 ] Приз отправлен:[object Object]
+[ 00:28:10 ] Получаем новые ставки. Конец раунда.  
+[ 00:28:13 ] Получаем новые ставки. Конец раунда.  
+[ 00:28:16 ] Получаем новые ставки. Конец раунда.  
+[ 00:28:19 ] Получаем новые ставки. Конец раунда.  
+[ 00:28:22 ] Получаем новые ставки. Конец раунда.  
+[ 00:28:22 ] Начинаем раунд №611
+[ 02:02:29 ] Новая ставка: 813081810 (76561198113123209)
+[ 02:02:29 ] Начинаем обрабатывать ставку: 813081810 (76561198113123209)
+[ 02:02:29 ] Проверяем вещи в ставке: 813081810 (76561198113123209)
+[ 02:02:29 ] Все ОК. Ожидаем подтверждения ставки: 813081810 (76561198113123209)
+[ 02:15:43 ] Новая ставка: 813103115 (76561198175415553)
+[ 02:15:43 ] Начинаем обрабатывать ставку: 813103115 (76561198175415553)
+[ 02:15:43 ] Проверяем вещи в ставке: 813103115 (76561198175415553)
+[ 02:15:43 ] Все ОК. Ожидаем подтверждения ставки: 813103115 (76561198175415553)
+[ 02:17:15 ] Пользователь отменил ставку: 813103115 (76561198175415553)
+76561198175415553 no_accept_user
+[ 02:17:15 ] Ставка отклоняется по причине: no_accept_user (813103115 (76561198175415553)
+[ 03:24:08 ] Новая ставка: 813189803 (76561198175415553)
+[ 03:24:08 ] Начинаем обрабатывать ставку: 813189803 (76561198175415553)
+[ 03:24:08 ] Проверяем вещи в ставке: 813189803 (76561198175415553)
+[ 03:24:08 ] Все ОК. Ожидаем подтверждения ставки: 813189803 (76561198175415553)
+[ 03:24:11 ] Обрабатываем ставку: 813189803 (76561198175415553)
+[ 03:24:11 ] Статус ставки: 1 (813189803 (76561198175415553))
+[ 03:24:11 ] Предмет: 4042239941
+[ 03:24:11 ] Предмет: 4042239988
+[ 03:24:11 ] Предмет: 4042239902
+[ 03:24:11 ] Предмет: 4042240030
+[ 03:24:11 ] Предмет: 4042239867
+[ 03:24:11 ] Предмет: 4042239700
+[ 03:24:11 ] Предмет: 4042239759
+[ 03:24:11 ] Предмет: 4042239803
+[ 03:24:11 ] Предмет: 4042239834
+[ 03:24:11 ] Предмет: 4042239665
+[ 03:24:11 ] Предмет: 4042239623
+[ 03:24:11 ] Предмет: 4042239575
+[ 03:24:11 ] Принимаем обмен: 813189803 (76561198175415553)
+[ 03:24:18 ] Ответ: null
+[ 03:24:18 ] Ставка принята: 813189803 (76561198175415553)
+[ 03:24:18 ] пользователь в игре: 76561198175415553

@@ -1,0 +1,7 @@
+events.js:85
+      throw er; // Unhandled 'error' event
+            ^
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED
+    at exports._errnoException (util.js:746:11)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1012:19)
+error: Forever detected script exited with code: 1

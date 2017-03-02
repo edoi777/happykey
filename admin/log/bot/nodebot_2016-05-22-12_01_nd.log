@@ -1,0 +1,15 @@
+events.js:85
+      throw er; // Unhandled 'error' event
+            ^
+Error: listen EADDRINUSE
+    at exports._errnoException (util.js:746:11)
+    at Server._listen2 (net.js:1158:14)
+    at listen (net.js:1184:10)
+    at Server.listen (net.js:1269:5)
+    at Object.<anonymous> (/var/www/newbot/bot.js:958:5)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.Module.runMain (module.js:501:10)
+error: Forever detected script exited with code: 1

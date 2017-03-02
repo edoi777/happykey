@@ -1,0 +1,23 @@
+Options All -Indexes
+SetEnv force-no-vary
+php_flag display_errors off
+SetEnv downgrade-1.0
+# REWRITE MOD
+RewriteEngine on
+# URL
+RewriteBase /
+RewriteCond %{SCRIPT_FILENAME} -d
+RewriteCond %{SCRIPT_FILENAME} -f
+RewriteRule . - [L]
+AddDefaultCharset UTF-8
+RewriteRule ^list(.*)$ index.php?page=list [L]
+RewriteRule ^faq(.*)$ index.php?page=faq [L]
+RewriteRule ^reviews(.*)$ index.php?page=reviews [L]
+RewriteRule ^user/me(.*)$ index.php?page=profile [L]
+RewriteRule ^top(.*)$ index.php?page=top [L]
+RewriteRule ^user/(.*)$ index.php?page=user&id=$1 [L]
+RewriteRule ^top(.*)$ index.php?page=top [L]
+RewriteRule ^open/(.*)$ index.php?page=case&id=$1 [L]
+RewriteRule ^about(.*)$ index.php?page=about [L]
+RewriteRule ^manual(.*)$ index.php?page=manual [L]
+RewriteRule ^support(.*)$ index.php?page=support [L]
